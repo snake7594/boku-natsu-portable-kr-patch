@@ -1,0 +1,26 @@
+# Never commit original, extracted, or patched game images.
+*.iso
+*.cso
+*.pbp
+*.bin
+*.img
+*.idx
+*.gz
+*.gzx
+
+# Local build/extraction output.
+work/
+outputs/
+cdimg0_extracted/
+build*/
+replacements*/
+
+# Python/runtime noise.
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local editor/OS files.
+.DS_Store
+Thumbs.db

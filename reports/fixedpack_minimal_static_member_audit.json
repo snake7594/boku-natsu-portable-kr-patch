@@ -1,0 +1,5882 @@
+[
+  {
+    "script": "A0.bin",
+    "member": "M_A01000.bin.gz",
+    "slot": 60928,
+    "payload": [
+      322752,
+      322752
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      832,
+      832
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A03000.bin.gz",
+    "slot": 75120,
+    "payload": [
+      350592,
+      350592
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      38912,
+      38912
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A05000.bin.gz",
+    "slot": 55392,
+    "payload": [
+      285952,
+      285952
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1152,
+      1152
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A06000.bin.gz",
+    "slot": 63232,
+    "payload": [
+      305216,
+      305216
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      12800,
+      12800
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A07000.bin.gz",
+    "slot": 52624,
+    "payload": [
+      293696,
+      293696
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      3648,
+      3648
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A07001.bin.gz",
+    "slot": 51888,
+    "payload": [
+      292608,
+      292608
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2560,
+      2560
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A09000.bin.gz",
+    "slot": 92624,
+    "payload": [
+      294976,
+      294976
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      4544,
+      4544
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A10000.bin.gz",
+    "slot": 54352,
+    "payload": [
+      294912,
+      294912
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1664,
+      1664
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A10001.bin.gz",
+    "slot": 54064,
+    "payload": [
+      294272,
+      294272
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A10002.bin.gz",
+    "slot": 53856,
+    "payload": [
+      293696,
+      293696
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      384,
+      384
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A11000.bin.gz",
+    "slot": 74336,
+    "payload": [
+      281280,
+      281280
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1536,
+      1536
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A12000.bin.gz",
+    "slot": 71280,
+    "payload": [
+      305088,
+      305088
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      704,
+      704
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A13000.bin.gz",
+    "slot": 84768,
+    "payload": [
+      312192,
+      312192
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1984,
+      1984
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A13002.bin.gz",
+    "slot": 84816,
+    "payload": [
+      312320,
+      312320
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2240,
+      2240
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A14000.bin.gz",
+    "slot": 70368,
+    "payload": [
+      300160,
+      300160
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      6336,
+      6336
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A15000.bin.gz",
+    "slot": 63520,
+    "payload": [
+      308800,
+      308800
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      8448,
+      8448
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A16000.bin.gz",
+    "slot": 68816,
+    "payload": [
+      302528,
+      302528
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1600,
+      1600
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A16004.bin.gz",
+    "slot": 68976,
+    "payload": [
+      302720,
+      302720
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1600,
+      1600
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A17000.bin.gz",
+    "slot": 48736,
+    "payload": [
+      279488,
+      279488
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1984,
+      1984
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A18000.bin.gz",
+    "slot": 56672,
+    "payload": [
+      278400,
+      278400
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1408,
+      1408
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A18001.bin.gz",
+    "slot": 57776,
+    "payload": [
+      282368,
+      282368
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      5312,
+      5312
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A18002.bin.gz",
+    "slot": 68016,
+    "payload": [
+      316544,
+      316544
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      38336,
+      38336
+    ]
+  },
+  {
+    "script": "A0.bin",
+    "member": "M_A19000.bin.gz",
+    "slot": 61152,
+    "payload": [
+      305600,
+      305600
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      3904,
+      3904
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A01100.bin.gz",
+    "slot": 65664,
+    "payload": [
+      320704,
+      320704
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      832,
+      832
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A03100.bin.gz",
+    "slot": 80336,
+    "payload": [
+      347520,
+      347520
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      38912,
+      38912
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A05100.bin.gz",
+    "slot": 59104,
+    "payload": [
+      284928,
+      284928
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1152,
+      1152
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A06100.bin.gz",
+    "slot": 62288,
+    "payload": [
+      305216,
+      305216
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      12800,
+      12800
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A07100.bin.gz",
+    "slot": 50864,
+    "payload": [
+      293696,
+      293696
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      3648,
+      3648
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A07101.bin.gz",
+    "slot": 50352,
+    "payload": [
+      292608,
+      292608
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2560,
+      2560
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A09100.bin.gz",
+    "slot": 93040,
+    "payload": [
+      293952,
+      293952
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      4544,
+      4544
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A10100.bin.gz",
+    "slot": 60416,
+    "payload": [
+      296000,
+      296000
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1664,
+      1664
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A10101.bin.gz",
+    "slot": 60096,
+    "payload": [
+      295360,
+      295360
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A10102.bin.gz",
+    "slot": 59888,
+    "payload": [
+      294784,
+      294784
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      384,
+      384
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A11100.bin.gz",
+    "slot": 73408,
+    "payload": [
+      281280,
+      281280
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1536,
+      1536
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A12100.bin.gz",
+    "slot": 71552,
+    "payload": [
+      305088,
+      305088
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      704,
+      704
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A13100.bin.gz",
+    "slot": 84576,
+    "payload": [
+      312256,
+      312256
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1984,
+      1984
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A13101.bin.gz",
+    "slot": 84624,
+    "payload": [
+      312448,
+      312448
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2240,
+      2240
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A13102.bin.gz",
+    "slot": 84592,
+    "payload": [
+      312384,
+      312384
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2240,
+      2240
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A14100.bin.gz",
+    "slot": 68512,
+    "payload": [
+      300160,
+      300160
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      6336,
+      6336
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A15100.bin.gz",
+    "slot": 66416,
+    "payload": [
+      308800,
+      308800
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      8448,
+      8448
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A16100.bin.gz",
+    "slot": 68976,
+    "payload": [
+      302528,
+      302528
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1600,
+      1600
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A16104.bin.gz",
+    "slot": 68880,
+    "payload": [
+      302336,
+      302336
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1216,
+      1216
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A17100.bin.gz",
+    "slot": 50192,
+    "payload": [
+      279488,
+      279488
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1984,
+      1984
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A18100.bin.gz",
+    "slot": 57120,
+    "payload": [
+      278464,
+      278464
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1408,
+      1408
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A18101.bin.gz",
+    "slot": 58160,
+    "payload": [
+      282432,
+      282432
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      5312,
+      5312
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A18102.bin.gz",
+    "slot": 68464,
+    "payload": [
+      316544,
+      316544
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      38336,
+      38336
+    ]
+  },
+  {
+    "script": "A1.bin",
+    "member": "M_A19100.bin.gz",
+    "slot": 60096,
+    "payload": [
+      306624,
+      306624
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      3904,
+      3904
+    ]
+  },
+  {
+    "script": "B0.bin",
+    "member": "M_B02000.bin.gz",
+    "slot": 54304,
+    "payload": [
+      280512,
+      280512
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1728,
+      1728
+    ]
+  },
+  {
+    "script": "B0.bin",
+    "member": "M_B03000.bin.gz",
+    "slot": 66080,
+    "payload": [
+      305792,
+      305792
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      4608,
+      4608
+    ]
+  },
+  {
+    "script": "B0.bin",
+    "member": "M_B05000.bin.gz",
+    "slot": 68032,
+    "payload": [
+      280768,
+      280768
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1216,
+      1216
+    ]
+  },
+  {
+    "script": "B0.bin",
+    "member": "M_B06000.bin.gz",
+    "slot": 77648,
+    "payload": [
+      285376,
+      285376
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      384,
+      384
+    ]
+  },
+  {
+    "script": "B0.bin",
+    "member": "M_B07000.bin.gz",
+    "slot": 70736,
+    "payload": [
+      295872,
+      295872
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2432,
+      2432
+    ]
+  },
+  {
+    "script": "B0.bin",
+    "member": "M_B10000.bin.gz",
+    "slot": 49952,
+    "payload": [
+      280576,
+      280576
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1792,
+      1792
+    ]
+  },
+  {
+    "script": "B0.bin",
+    "member": "M_B12000.bin.gz",
+    "slot": 61248,
+    "payload": [
+      286528,
+      286528
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1152,
+      1152
+    ]
+  },
+  {
+    "script": "B0.bin",
+    "member": "M_B13001.bin.gz",
+    "slot": 72496,
+    "payload": [
+      298368,
+      298368
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      6592,
+      6592
+    ]
+  },
+  {
+    "script": "B0.bin",
+    "member": "M_B15000.bin.gz",
+    "slot": 72080,
+    "payload": [
+      306752,
+      306752
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "script": "B1.bin",
+    "member": "M_B02100.bin.gz",
+    "slot": 55216,
+    "payload": [
+      280832,
+      280832
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1728,
+      1728
+    ]
+  },
+  {
+    "script": "B1.bin",
+    "member": "M_B03100.bin.gz",
+    "slot": 65792,
+    "payload": [
+      303744,
+      303744
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      4608,
+      4608
+    ]
+  },
+  {
+    "script": "B1.bin",
+    "member": "M_B05100.bin.gz",
+    "slot": 67584,
+    "payload": [
+      280768,
+      280768
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1216,
+      1216
+    ]
+  },
+  {
+    "script": "B1.bin",
+    "member": "M_B06100.bin.gz",
+    "slot": 74320,
+    "payload": [
+      285376,
+      285376
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      384,
+      384
+    ]
+  },
+  {
+    "script": "B1.bin",
+    "member": "M_B07100.bin.gz",
+    "slot": 77248,
+    "payload": [
+      295872,
+      295872
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2432,
+      2432
+    ]
+  },
+  {
+    "script": "B1.bin",
+    "member": "M_B10100.bin.gz",
+    "slot": 54064,
+    "payload": [
+      281664,
+      281664
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1792,
+      1792
+    ]
+  },
+  {
+    "script": "B1.bin",
+    "member": "M_B12100.bin.gz",
+    "slot": 56608,
+    "payload": [
+      286528,
+      286528
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1152,
+      1152
+    ]
+  },
+  {
+    "script": "B1.bin",
+    "member": "M_B13101.bin.gz",
+    "slot": 76496,
+    "payload": [
+      298368,
+      298368
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      6592,
+      6592
+    ]
+  },
+  {
+    "script": "B1.bin",
+    "member": "M_B15100.bin.gz",
+    "slot": 70976,
+    "payload": [
+      306752,
+      306752
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "script": "C0.bin",
+    "member": "M_C02000.bin.gz",
+    "slot": 72704,
+    "payload": [
+      310016,
+      310016
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      3456,
+      3456
+    ]
+  },
+  {
+    "script": "C0.bin",
+    "member": "M_C04000.bin.gz",
+    "slot": 68880,
+    "payload": [
+      297344,
+      297344
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      3456,
+      3456
+    ]
+  },
+  {
+    "script": "C0.bin",
+    "member": "M_C05000.bin.gz",
+    "slot": 74000,
+    "payload": [
+      285504,
+      285504
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      832,
+      832
+    ]
+  },
+  {
+    "script": "C0.bin",
+    "member": "M_C07000.bin.gz",
+    "slot": 65248,
+    "payload": [
+      308224,
+      308224
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2560,
+      2560
+    ]
+  },
+  {
+    "script": "C0.bin",
+    "member": "M_C08000.bin.gz",
+    "slot": 72048,
+    "payload": [
+      305856,
+      305856
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      704,
+      704
+    ]
+  },
+  {
+    "script": "C0.bin",
+    "member": "M_C11000.bin.gz",
+    "slot": 80192,
+    "payload": [
+      301504,
+      301504
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1536,
+      1536
+    ]
+  },
+  {
+    "script": "C0.bin",
+    "member": "M_C14000.bin.gz",
+    "slot": 68576,
+    "payload": [
+      286720,
+      286720
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1600,
+      1600
+    ]
+  },
+  {
+    "script": "C0.bin",
+    "member": "M_C15000.bin.gz",
+    "slot": 57040,
+    "payload": [
+      285120,
+      285120
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      320,
+      320
+    ]
+  },
+  {
+    "script": "C0.bin",
+    "member": "M_C18000.bin.gz",
+    "slot": 57424,
+    "payload": [
+      290048,
+      290048
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1920,
+      1920
+    ]
+  },
+  {
+    "script": "C1.bin",
+    "member": "M_C02100.bin.gz",
+    "slot": 63456,
+    "payload": [
+      308992,
+      308992
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      3456,
+      3456
+    ]
+  },
+  {
+    "script": "C1.bin",
+    "member": "M_C04100.bin.gz",
+    "slot": 67504,
+    "payload": [
+      297344,
+      297344
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      3456,
+      3456
+    ]
+  },
+  {
+    "script": "C1.bin",
+    "member": "M_C05100.bin.gz",
+    "slot": 71792,
+    "payload": [
+      285504,
+      285504
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      832,
+      832
+    ]
+  },
+  {
+    "script": "C1.bin",
+    "member": "M_C07100.bin.gz",
+    "slot": 63104,
+    "payload": [
+      308224,
+      308224
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2560,
+      2560
+    ]
+  },
+  {
+    "script": "C1.bin",
+    "member": "M_C08100.bin.gz",
+    "slot": 73008,
+    "payload": [
+      305856,
+      305856
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      704,
+      704
+    ]
+  },
+  {
+    "script": "C1.bin",
+    "member": "M_C11100.bin.gz",
+    "slot": 78016,
+    "payload": [
+      301504,
+      301504
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1536,
+      1536
+    ]
+  },
+  {
+    "script": "C1.bin",
+    "member": "M_C14100.bin.gz",
+    "slot": 70960,
+    "payload": [
+      286720,
+      286720
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1600,
+      1600
+    ]
+  },
+  {
+    "script": "C1.bin",
+    "member": "M_C15100.bin.gz",
+    "slot": 56240,
+    "payload": [
+      285120,
+      285120
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      320,
+      320
+    ]
+  },
+  {
+    "script": "C1.bin",
+    "member": "M_C18100.bin.gz",
+    "slot": 58784,
+    "payload": [
+      292288,
+      292288
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1984,
+      1984
+    ]
+  },
+  {
+    "script": "C1.bin",
+    "member": "M_C18101.bin.gz",
+    "slot": 58752,
+    "payload": [
+      292224,
+      292224
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1920,
+      1920
+    ]
+  },
+  {
+    "script": "D0.bin",
+    "member": "M_D03000.bin.gz",
+    "slot": 64128,
+    "payload": [
+      301632,
+      301632
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      384,
+      384
+    ]
+  },
+  {
+    "script": "D0.bin",
+    "member": "M_D06000.bin.gz",
+    "slot": 43728,
+    "payload": [
+      275264,
+      275264
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1152,
+      1152
+    ]
+  },
+  {
+    "script": "D0.bin",
+    "member": "M_D06001.bin.gz",
+    "slot": 43280,
+    "payload": [
+      274432,
+      274432
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      448,
+      448
+    ]
+  },
+  {
+    "script": "D0.bin",
+    "member": "M_D07000.bin.gz",
+    "slot": 76512,
+    "payload": [
+      342336,
+      342336
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      28544,
+      28544
+    ]
+  },
+  {
+    "script": "D0.bin",
+    "member": "M_D10000.bin.gz",
+    "slot": 87248,
+    "payload": [
+      318720,
+      318720
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2240,
+      2240
+    ]
+  },
+  {
+    "script": "D0.bin",
+    "member": "M_D11000.bin.gz",
+    "slot": 70640,
+    "payload": [
+      296192,
+      296192
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      256,
+      256
+    ]
+  },
+  {
+    "script": "D0.bin",
+    "member": "M_D11001.bin.gz",
+    "slot": 70688,
+    "payload": [
+      296256,
+      296256
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      256,
+      256
+    ]
+  },
+  {
+    "script": "D0.bin",
+    "member": "M_D14000.bin.gz",
+    "slot": 67856,
+    "payload": [
+      289216,
+      289216
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "script": "D0.bin",
+    "member": "M_D16000.bin.gz",
+    "slot": 60928,
+    "payload": [
+      301568,
+      301568
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2496,
+      2496
+    ]
+  },
+  {
+    "script": "D1.bin",
+    "member": "M_D03100.bin.gz",
+    "slot": 63248,
+    "payload": [
+      301632,
+      301632
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      384,
+      384
+    ]
+  },
+  {
+    "script": "D1.bin",
+    "member": "M_D06100.bin.gz",
+    "slot": 41344,
+    "payload": [
+      275264,
+      275264
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1152,
+      1152
+    ]
+  },
+  {
+    "script": "D1.bin",
+    "member": "M_D06101.bin.gz",
+    "slot": 40912,
+    "payload": [
+      274432,
+      274432
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      448,
+      448
+    ]
+  },
+  {
+    "script": "D1.bin",
+    "member": "M_D07100.bin.gz",
+    "slot": 68128,
+    "payload": [
+      338048,
+      338048
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      28544,
+      28544
+    ]
+  },
+  {
+    "script": "D1.bin",
+    "member": "M_D10100.bin.gz",
+    "slot": 98768,
+    "payload": [
+      318720,
+      318720
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2240,
+      2240
+    ]
+  },
+  {
+    "script": "D1.bin",
+    "member": "M_D11100.bin.gz",
+    "slot": 73168,
+    "payload": [
+      297216,
+      297216
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      256,
+      256
+    ]
+  },
+  {
+    "script": "D1.bin",
+    "member": "M_D14100.bin.gz",
+    "slot": 61968,
+    "payload": [
+      289216,
+      289216
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "script": "D1.bin",
+    "member": "M_D16100.bin.gz",
+    "slot": 59552,
+    "payload": [
+      303680,
+      303680
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2496,
+      2496
+    ]
+  },
+  {
+    "script": "E0.bin",
+    "member": "M_E02000.bin.gz",
+    "slot": 67952,
+    "payload": [
+      292608,
+      292608
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2240,
+      2240
+    ]
+  },
+  {
+    "script": "E0.bin",
+    "member": "M_E08000.bin.gz",
+    "slot": 70192,
+    "payload": [
+      280128,
+      280128
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      640,
+      640
+    ]
+  },
+  {
+    "script": "E1.bin",
+    "member": "M_E02100.bin.gz",
+    "slot": 72448,
+    "payload": [
+      292608,
+      292608
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2240,
+      2240
+    ]
+  },
+  {
+    "script": "E1.bin",
+    "member": "M_E08100.bin.gz",
+    "slot": 69536,
+    "payload": [
+      280128,
+      280128
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      640,
+      640
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G01000.bin.gz",
+    "slot": 45664,
+    "payload": [
+      284736,
+      284736
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      4416,
+      4416
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G01003.bin.gz",
+    "slot": 44096,
+    "payload": [
+      281600,
+      281600
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1280,
+      1280
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G01004.bin.gz",
+    "slot": 44080,
+    "payload": [
+      281600,
+      281600
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1280,
+      1280
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G02000.bin.gz",
+    "slot": 78624,
+    "payload": [
+      311808,
+      311808
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      26816,
+      26816
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G02001.bin.gz",
+    "slot": 70976,
+    "payload": [
+      291776,
+      291776
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      7168,
+      7168
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G02002.bin.gz",
+    "slot": 71344,
+    "payload": [
+      294336,
+      294336
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      9728,
+      9728
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G02003.bin.gz",
+    "slot": 70960,
+    "payload": [
+      291968,
+      291968
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      7360,
+      7360
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G02004.bin.gz",
+    "slot": 70096,
+    "payload": [
+      291968,
+      291968
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      7360,
+      7360
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G02005.bin.gz",
+    "slot": 70976,
+    "payload": [
+      291584,
+      291584
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      6016,
+      6016
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G02018.bin.gz",
+    "slot": 71728,
+    "payload": [
+      286400,
+      286400
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1728,
+      1728
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G02019.bin.gz",
+    "slot": 71344,
+    "payload": [
+      285760,
+      285760
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1152,
+      1152
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G02021.bin.gz",
+    "slot": 71728,
+    "payload": [
+      286400,
+      286400
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1728,
+      1728
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G03000.bin.gz",
+    "slot": 52512,
+    "payload": [
+      282368,
+      282368
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      8448,
+      8448
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G03001.bin.gz",
+    "slot": 52544,
+    "payload": [
+      282496,
+      282496
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      8576,
+      8576
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G03003.bin.gz",
+    "slot": 52512,
+    "payload": [
+      282368,
+      282368
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      8448,
+      8448
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G03004.bin.gz",
+    "slot": 52544,
+    "payload": [
+      282496,
+      282496
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      8576,
+      8576
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G04000.bin.gz",
+    "slot": 38896,
+    "payload": [
+      267392,
+      267392
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      448,
+      448
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G06000.bin.gz",
+    "slot": 60208,
+    "payload": [
+      278080,
+      278080
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      5760,
+      5760
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G06001.bin.gz",
+    "slot": 58000,
+    "payload": [
+      272896,
+      272896
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G06002.bin.gz",
+    "slot": 58080,
+    "payload": [
+      273472,
+      273472
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1280,
+      1280
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G06003.bin.gz",
+    "slot": 58032,
+    "payload": [
+      272960,
+      272960
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      832,
+      832
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G06004.bin.gz",
+    "slot": 57984,
+    "payload": [
+      272896,
+      272896
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G06005.bin.gz",
+    "slot": 58336,
+    "payload": [
+      274048,
+      274048
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1920,
+      1920
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G07000.bin.gz",
+    "slot": 39616,
+    "payload": [
+      267840,
+      267840
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G08000.bin.gz",
+    "slot": 39104,
+    "payload": [
+      269760,
+      269760
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1600,
+      1600
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G09000.bin.gz",
+    "slot": 47712,
+    "payload": [
+      269888,
+      269888
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      896,
+      896
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G10000.bin.gz",
+    "slot": 48720,
+    "payload": [
+      270912,
+      270912
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1536,
+      1536
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G10001.bin.gz",
+    "slot": 48720,
+    "payload": [
+      270912,
+      270912
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1536,
+      1536
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G11000.bin.gz",
+    "slot": 49232,
+    "payload": [
+      269888,
+      269888
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1792,
+      1792
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G11001.bin.gz",
+    "slot": 49184,
+    "payload": [
+      269760,
+      269760
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1664,
+      1664
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G17000.bin.gz",
+    "slot": 56048,
+    "payload": [
+      281472,
+      281472
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      9600,
+      9600
+    ]
+  },
+  {
+    "script": "G0a.bin",
+    "member": "M_G17002.bin.gz",
+    "slot": 54640,
+    "payload": [
+      278848,
+      278848
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      7040,
+      7040
+    ]
+  },
+  {
+    "script": "G0b.bin",
+    "member": "M_G12000.bin.gz",
+    "slot": 40752,
+    "payload": [
+      272512,
+      272512
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "G0b.bin",
+    "member": "M_G12001.bin.gz",
+    "slot": 40704,
+    "payload": [
+      272512,
+      272512
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "G0b.bin",
+    "member": "M_G13000.bin.gz",
+    "slot": 60512,
+    "payload": [
+      272128,
+      272128
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1536,
+      1536
+    ]
+  },
+  {
+    "script": "G0b.bin",
+    "member": "M_G13001.bin.gz",
+    "slot": 60512,
+    "payload": [
+      272128,
+      272128
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1536,
+      1536
+    ]
+  },
+  {
+    "script": "G0b.bin",
+    "member": "M_G14000.bin.gz",
+    "slot": 52176,
+    "payload": [
+      271296,
+      271296
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1600,
+      1600
+    ]
+  },
+  {
+    "script": "G0b.bin",
+    "member": "M_G14002.bin.gz",
+    "slot": 52336,
+    "payload": [
+      271552,
+      271552
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1856,
+      1856
+    ]
+  },
+  {
+    "script": "G0b.bin",
+    "member": "M_G14003.bin.gz",
+    "slot": 55920,
+    "payload": [
+      271552,
+      271552
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1856,
+      1856
+    ]
+  },
+  {
+    "script": "G0b.bin",
+    "member": "M_G15000.bin.gz",
+    "slot": 53952,
+    "payload": [
+      283712,
+      283712
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      12032,
+      12032
+    ]
+  },
+  {
+    "script": "G0b.bin",
+    "member": "M_G15001.bin.gz",
+    "slot": 49968,
+    "payload": [
+      272448,
+      272448
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "G0b.bin",
+    "member": "M_G15002.bin.gz",
+    "slot": 49600,
+    "payload": [
+      271744,
+      271744
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      384,
+      384
+    ]
+  },
+  {
+    "script": "G0b.bin",
+    "member": "M_G15003.bin.gz",
+    "slot": 49600,
+    "payload": [
+      271744,
+      271744
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      384,
+      384
+    ]
+  },
+  {
+    "script": "G0b.bin",
+    "member": "M_G16001.bin.gz",
+    "slot": 47008,
+    "payload": [
+      281472,
+      281472
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      10944,
+      10944
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G01100.bin.gz",
+    "slot": 46848,
+    "payload": [
+      284352,
+      284352
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1984,
+      1984
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G01102.bin.gz",
+    "slot": 46832,
+    "payload": [
+      284288,
+      284288
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1920,
+      1920
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G01103.bin.gz",
+    "slot": 52624,
+    "payload": [
+      300160,
+      300160
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      17280,
+      17280
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G02100.bin.gz",
+    "slot": 76832,
+    "payload": [
+      286208,
+      286208
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1600,
+      1600
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G02106.bin.gz",
+    "slot": 73776,
+    "payload": [
+      287104,
+      287104
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      4608,
+      4608
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G02107.bin.gz",
+    "slot": 75728,
+    "payload": [
+      288768,
+      288768
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      6272,
+      6272
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G02108.bin.gz",
+    "slot": 73664,
+    "payload": [
+      287104,
+      287104
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      4608,
+      4608
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G02109.bin.gz",
+    "slot": 73856,
+    "payload": [
+      287360,
+      287360
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      4864,
+      4864
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G02110.bin.gz",
+    "slot": 74592,
+    "payload": [
+      287104,
+      287104
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      4608,
+      4608
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G02111.bin.gz",
+    "slot": 74864,
+    "payload": [
+      289344,
+      289344
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      6784,
+      6784
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G02112.bin.gz",
+    "slot": 75456,
+    "payload": [
+      287104,
+      287104
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      4608,
+      4608
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G02113.bin.gz",
+    "slot": 75616,
+    "payload": [
+      288704,
+      288704
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      6144,
+      6144
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G02114.bin.gz",
+    "slot": 74112,
+    "payload": [
+      287872,
+      287872
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      5376,
+      5376
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G02115.bin.gz",
+    "slot": 75424,
+    "payload": [
+      287104,
+      287104
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      4608,
+      4608
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G02116.bin.gz",
+    "slot": 73760,
+    "payload": [
+      285504,
+      285504
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      3008,
+      3008
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G02119.bin.gz",
+    "slot": 76608,
+    "payload": [
+      285888,
+      285888
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1280,
+      1280
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G02120.bin.gz",
+    "slot": 76624,
+    "payload": [
+      285888,
+      285888
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1280,
+      1280
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G03100.bin.gz",
+    "slot": 53776,
+    "payload": [
+      279104,
+      279104
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      6272,
+      6272
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G03102.bin.gz",
+    "slot": 54784,
+    "payload": [
+      281344,
+      281344
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      8448,
+      8448
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G03103.bin.gz",
+    "slot": 56096,
+    "payload": [
+      282368,
+      282368
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      8448,
+      8448
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G04100.bin.gz",
+    "slot": 35952,
+    "payload": [
+      267392,
+      267392
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      448,
+      448
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G06100.bin.gz",
+    "slot": 55600,
+    "payload": [
+      275264,
+      275264
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1920,
+      1920
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G06105.bin.gz",
+    "slot": 55568,
+    "payload": [
+      275136,
+      275136
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1920,
+      1920
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G07100.bin.gz",
+    "slot": 36096,
+    "payload": [
+      269952,
+      269952
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1728,
+      1728
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G08100.bin.gz",
+    "slot": 37680,
+    "payload": [
+      268672,
+      268672
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G11100.bin.gz",
+    "slot": 42576,
+    "payload": [
+      267328,
+      267328
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      320,
+      320
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G11101.bin.gz",
+    "slot": 42528,
+    "payload": [
+      267264,
+      267264
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      192,
+      192
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G17100.bin.gz",
+    "slot": 53792,
+    "payload": [
+      279040,
+      279040
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      8192,
+      8192
+    ]
+  },
+  {
+    "script": "G1a.bin",
+    "member": "M_G17102.bin.gz",
+    "slot": 53792,
+    "payload": [
+      279040,
+      279040
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      8192,
+      8192
+    ]
+  },
+  {
+    "script": "G1b.bin",
+    "member": "M_G12100.bin.gz",
+    "slot": 35520,
+    "payload": [
+      272512,
+      272512
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "G1b.bin",
+    "member": "M_G12101.bin.gz",
+    "slot": 35488,
+    "payload": [
+      272512,
+      272512
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "G1b.bin",
+    "member": "M_G13100.bin.gz",
+    "slot": 50896,
+    "payload": [
+      274112,
+      274112
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1536,
+      1536
+    ]
+  },
+  {
+    "script": "G1b.bin",
+    "member": "M_G14100.bin.gz",
+    "slot": 54080,
+    "payload": [
+      271424,
+      271424
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1728,
+      1728
+    ]
+  },
+  {
+    "script": "G1b.bin",
+    "member": "M_G14102.bin.gz",
+    "slot": 53664,
+    "payload": [
+      270656,
+      270656
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "G1b.bin",
+    "member": "M_G15100.bin.gz",
+    "slot": 46128,
+    "payload": [
+      284032,
+      284032
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      11392,
+      11392
+    ]
+  },
+  {
+    "script": "G1b.bin",
+    "member": "M_G15101.bin.gz",
+    "slot": 42688,
+    "payload": [
+      273472,
+      273472
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "G1b.bin",
+    "member": "M_G15102.bin.gz",
+    "slot": 42288,
+    "payload": [
+      272768,
+      272768
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      384,
+      384
+    ]
+  },
+  {
+    "script": "G1b.bin",
+    "member": "M_G15103.bin.gz",
+    "slot": 42288,
+    "payload": [
+      272768,
+      272768
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      384,
+      384
+    ]
+  },
+  {
+    "script": "G1b.bin",
+    "member": "M_G16101.bin.gz",
+    "slot": 48224,
+    "payload": [
+      281664,
+      281664
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      11072,
+      11072
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G01200.bin.gz",
+    "slot": 51136,
+    "payload": [
+      302784,
+      302784
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      22784,
+      22784
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G01201.bin.gz",
+    "slot": 45264,
+    "payload": [
+      286272,
+      286272
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      6912,
+      6912
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G01202.bin.gz",
+    "slot": 43968,
+    "payload": [
+      282944,
+      282944
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      3648,
+      3648
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G02200.bin.gz",
+    "slot": 67072,
+    "payload": [
+      321344,
+      321344
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      37248,
+      37248
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G02217.bin.gz",
+    "slot": 58208,
+    "payload": [
+      286720,
+      286720
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      3072,
+      3072
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G02220.bin.gz",
+    "slot": 57248,
+    "payload": [
+      284672,
+      284672
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1088,
+      1088
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G03200.bin.gz",
+    "slot": 44960,
+    "payload": [
+      278720,
+      278720
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1920,
+      1920
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G03202.bin.gz",
+    "slot": 44960,
+    "payload": [
+      278720,
+      278720
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1920,
+      1920
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G04200.bin.gz",
+    "slot": 40592,
+    "payload": [
+      271040,
+      271040
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G04201.bin.gz",
+    "slot": 40144,
+    "payload": [
+      270400,
+      270400
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      192,
+      192
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G04202.bin.gz",
+    "slot": 40144,
+    "payload": [
+      270400,
+      270400
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      192,
+      192
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G04203.bin.gz",
+    "slot": 40144,
+    "payload": [
+      270400,
+      270400
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      192,
+      192
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G04204.bin.gz",
+    "slot": 40416,
+    "payload": [
+      270848,
+      270848
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      576,
+      576
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G05200.bin.gz",
+    "slot": 50144,
+    "payload": [
+      267776,
+      267776
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G06200.bin.gz",
+    "slot": 57376,
+    "payload": [
+      292288,
+      292288
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      18496,
+      18496
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G06205.bin.gz",
+    "slot": 51088,
+    "payload": [
+      274752,
+      274752
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1664,
+      1664
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G07200.bin.gz",
+    "slot": 45040,
+    "payload": [
+      268864,
+      268864
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2560,
+      2560
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G08200.bin.gz",
+    "slot": 30976,
+    "payload": [
+      269440,
+      269440
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1216,
+      1216
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G09200.bin.gz",
+    "slot": 44784,
+    "payload": [
+      267264,
+      267264
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      384,
+      384
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G17200.bin.gz",
+    "slot": 62384,
+    "payload": [
+      300096,
+      300096
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      19520,
+      19520
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G17201.bin.gz",
+    "slot": 58192,
+    "payload": [
+      285952,
+      285952
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      5376,
+      5376
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G17202.bin.gz",
+    "slot": 59232,
+    "payload": [
+      287680,
+      287680
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      7232,
+      7232
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G11200.bin.gz",
+    "slot": 45072,
+    "payload": [
+      267456,
+      267456
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      320,
+      320
+    ]
+  },
+  {
+    "script": "G2a.bin",
+    "member": "M_G11201.bin.gz",
+    "slot": 45024,
+    "payload": [
+      267328,
+      267328
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      192,
+      192
+    ]
+  },
+  {
+    "script": "G2b.bin",
+    "member": "M_G12200.bin.gz",
+    "slot": 49424,
+    "payload": [
+      271360,
+      271360
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "G2b.bin",
+    "member": "M_G12201.bin.gz",
+    "slot": 49392,
+    "payload": [
+      271360,
+      271360
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "G2b.bin",
+    "member": "M_G13200.bin.gz",
+    "slot": 58752,
+    "payload": [
+      275392,
+      275392
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1856,
+      1856
+    ]
+  },
+  {
+    "script": "G2b.bin",
+    "member": "M_G13202.bin.gz",
+    "slot": 58096,
+    "payload": [
+      274176,
+      274176
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      704,
+      704
+    ]
+  },
+  {
+    "script": "G2b.bin",
+    "member": "M_G14200.bin.gz",
+    "slot": 60912,
+    "payload": [
+      270784,
+      270784
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2432,
+      2432
+    ]
+  },
+  {
+    "script": "G2b.bin",
+    "member": "M_G14201.bin.gz",
+    "slot": 60704,
+    "payload": [
+      270272,
+      270272
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1920,
+      1920
+    ]
+  },
+  {
+    "script": "G2b.bin",
+    "member": "M_G14202.bin.gz",
+    "slot": 60912,
+    "payload": [
+      270784,
+      270784
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2432,
+      2432
+    ]
+  },
+  {
+    "script": "G2b.bin",
+    "member": "M_G14204.bin.gz",
+    "slot": 61024,
+    "payload": [
+      271296,
+      271296
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      3008,
+      3008
+    ]
+  },
+  {
+    "script": "G2b.bin",
+    "member": "M_G14205.bin.gz",
+    "slot": 55408,
+    "payload": [
+      272064,
+      272064
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1792,
+      1792
+    ]
+  },
+  {
+    "script": "G2b.bin",
+    "member": "M_G15200.bin.gz",
+    "slot": 51136,
+    "payload": [
+      284736,
+      284736
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      11968,
+      11968
+    ]
+  },
+  {
+    "script": "G2b.bin",
+    "member": "M_G15201.bin.gz",
+    "slot": 46944,
+    "payload": [
+      272960,
+      272960
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      384,
+      384
+    ]
+  },
+  {
+    "script": "G2b.bin",
+    "member": "M_G15202.bin.gz",
+    "slot": 46576,
+    "payload": [
+      272896,
+      272896
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      384,
+      384
+    ]
+  },
+  {
+    "script": "G2b.bin",
+    "member": "M_G15203.bin.gz",
+    "slot": 46576,
+    "payload": [
+      272896,
+      272896
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      384,
+      384
+    ]
+  },
+  {
+    "script": "G2b.bin",
+    "member": "M_G16201.bin.gz",
+    "slot": 56400,
+    "payload": [
+      273408,
+      273408
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      896,
+      896
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H01000.bin.gz",
+    "slot": 67136,
+    "payload": [
+      301504,
+      301504
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1472,
+      1472
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H01001.bin.gz",
+    "slot": 66720,
+    "payload": [
+      300672,
+      300672
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      704,
+      704
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H02000.bin.gz",
+    "slot": 71600,
+    "payload": [
+      298816,
+      298816
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      192,
+      192
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H02001.bin.gz",
+    "slot": 73520,
+    "payload": [
+      302976,
+      302976
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      4288,
+      4288
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H02002.bin.gz",
+    "slot": 71472,
+    "payload": [
+      298624,
+      298624
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      192,
+      192
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H03000.bin.gz",
+    "slot": 66752,
+    "payload": [
+      297728,
+      297728
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1536,
+      1536
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H03001.bin.gz",
+    "slot": 66560,
+    "payload": [
+      297344,
+      297344
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1152,
+      1152
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H04000.bin.gz",
+    "slot": 63664,
+    "payload": [
+      294784,
+      294784
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      4544,
+      4544
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H05000.bin.gz",
+    "slot": 56816,
+    "payload": [
+      287360,
+      287360
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      3200,
+      3200
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H05001.bin.gz",
+    "slot": 56816,
+    "payload": [
+      287360,
+      287360
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      3200,
+      3200
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H05002.bin.gz",
+    "slot": 56816,
+    "payload": [
+      287360,
+      287360
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      3200,
+      3200
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H05003.bin.gz",
+    "slot": 56816,
+    "payload": [
+      287360,
+      287360
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      3200,
+      3200
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H06000.bin.gz",
+    "slot": 64096,
+    "payload": [
+      309952,
+      309952
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      10624,
+      10624
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H06001.bin.gz",
+    "slot": 64080,
+    "payload": [
+      309952,
+      309952
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      10624,
+      10624
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H06002.bin.gz",
+    "slot": 62736,
+    "payload": [
+      306176,
+      306176
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      6848,
+      6848
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H07000.bin.gz",
+    "slot": 57456,
+    "payload": [
+      274944,
+      274944
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1088,
+      1088
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H08000.bin.gz",
+    "slot": 71328,
+    "payload": [
+      304128,
+      304128
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      5504,
+      5504
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H08001.bin.gz",
+    "slot": 70048,
+    "payload": [
+      301504,
+      301504
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2944,
+      2944
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H08002.bin.gz",
+    "slot": 70640,
+    "payload": [
+      302656,
+      302656
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      3968,
+      3968
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H12000.bin.gz",
+    "slot": 54496,
+    "payload": [
+      295488,
+      295488
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      704,
+      704
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H18000.bin.gz",
+    "slot": 38096,
+    "payload": [
+      266240,
+      266240
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      192,
+      192
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H18001.bin.gz",
+    "slot": 38304,
+    "payload": [
+      266624,
+      266624
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H25000.bin.gz",
+    "slot": 36768,
+    "payload": [
+      265280,
+      265280
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      192,
+      192
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H25001.bin.gz",
+    "slot": 36800,
+    "payload": [
+      265472,
+      265472
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      448,
+      448
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H09000.bin.gz",
+    "slot": 69120,
+    "payload": [
+      318528,
+      318528
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      11392,
+      11392
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H10000.bin.gz",
+    "slot": 53472,
+    "payload": [
+      293312,
+      293312
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      4864,
+      4864
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H11000.bin.gz",
+    "slot": 65488,
+    "payload": [
+      298304,
+      298304
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      832,
+      832
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H13000.bin.gz",
+    "slot": 81968,
+    "payload": [
+      319040,
+      319040
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      832,
+      832
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H13001.bin.gz",
+    "slot": 81792,
+    "payload": [
+      318848,
+      318848
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      704,
+      704
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H13002.bin.gz",
+    "slot": 82192,
+    "payload": [
+      320064,
+      320064
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      704,
+      704
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H13003.bin.gz",
+    "slot": 82496,
+    "payload": [
+      320576,
+      320576
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1280,
+      1280
+    ]
+  },
+  {
+    "script": "H0a.bin",
+    "member": "M_H17000.bin.gz",
+    "slot": 58048,
+    "payload": [
+      298816,
+      298816
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2112,
+      2112
+    ]
+  },
+  {
+    "script": "H0b.bin",
+    "member": "M_H15000.bin.gz",
+    "slot": 68016,
+    "payload": [
+      300224,
+      300224
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      256,
+      256
+    ]
+  },
+  {
+    "script": "H0b.bin",
+    "member": "M_H15002.bin.gz",
+    "slot": 67952,
+    "payload": [
+      300096,
+      300096
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      128,
+      128
+    ]
+  },
+  {
+    "script": "H0b.bin",
+    "member": "M_H15003.bin.gz",
+    "slot": 68768,
+    "payload": [
+      301568,
+      301568
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1536,
+      1536
+    ]
+  },
+  {
+    "script": "H0b.bin",
+    "member": "M_H15004.bin.gz",
+    "slot": 68016,
+    "payload": [
+      300224,
+      300224
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      256,
+      256
+    ]
+  },
+  {
+    "script": "H0b.bin",
+    "member": "M_H24000.bin.gz",
+    "slot": 60432,
+    "payload": [
+      295424,
+      295424
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      448,
+      448
+    ]
+  },
+  {
+    "script": "H0b.bin",
+    "member": "M_H27000.bin.gz",
+    "slot": 69952,
+    "payload": [
+      301248,
+      301248
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      8000,
+      8000
+    ]
+  },
+  {
+    "script": "H0c.bin",
+    "member": "M_H19000.bin.gz",
+    "slot": 56752,
+    "payload": [
+      271232,
+      271232
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      704,
+      704
+    ]
+  },
+  {
+    "script": "H0c.bin",
+    "member": "M_H19001.bin.gz",
+    "slot": 56816,
+    "payload": [
+      271296,
+      271296
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "script": "H0c.bin",
+    "member": "M_H19002.bin.gz",
+    "slot": 59648,
+    "payload": [
+      273280,
+      273280
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      704,
+      704
+    ]
+  },
+  {
+    "script": "H0c.bin",
+    "member": "M_H19003.bin.gz",
+    "slot": 59712,
+    "payload": [
+      273344,
+      273344
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "script": "H0c.bin",
+    "member": "M_H19004.bin.gz",
+    "slot": 57680,
+    "payload": [
+      271232,
+      271232
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      704,
+      704
+    ]
+  },
+  {
+    "script": "H0c.bin",
+    "member": "M_H19005.bin.gz",
+    "slot": 57744,
+    "payload": [
+      271296,
+      271296
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "script": "H0c.bin",
+    "member": "M_H26000.bin.gz",
+    "slot": 92560,
+    "payload": [
+      270336,
+      270336
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "H0c.bin",
+    "member": "M_H26001.bin.gz",
+    "slot": 92560,
+    "payload": [
+      270336,
+      270336
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "H0c.bin",
+    "member": "M_H26002.bin.gz",
+    "slot": 99008,
+    "payload": [
+      300544,
+      300544
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      30656,
+      30656
+    ]
+  },
+  {
+    "script": "H0c.bin",
+    "member": "M_H26003.bin.gz",
+    "slot": 99008,
+    "payload": [
+      300544,
+      300544
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      30656,
+      30656
+    ]
+  },
+  {
+    "script": "H0c.bin",
+    "member": "M_H26004.bin.gz",
+    "slot": 95744,
+    "payload": [
+      270336,
+      270336
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "H0c.bin",
+    "member": "M_H26005.bin.gz",
+    "slot": 95728,
+    "payload": [
+      270336,
+      270336
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "H0c.bin",
+    "member": "M_H26006.bin.gz",
+    "slot": 102192,
+    "payload": [
+      300544,
+      300544
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      30656,
+      30656
+    ]
+  },
+  {
+    "script": "H0c.bin",
+    "member": "M_H26007.bin.gz",
+    "slot": 102192,
+    "payload": [
+      300544,
+      300544
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      30656,
+      30656
+    ]
+  },
+  {
+    "script": "H0c.bin",
+    "member": "M_H26008.bin.gz",
+    "slot": 93712,
+    "payload": [
+      270336,
+      270336
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "H0c.bin",
+    "member": "M_H26009.bin.gz",
+    "slot": 93696,
+    "payload": [
+      270336,
+      270336
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "H0c.bin",
+    "member": "M_H26010.bin.gz",
+    "slot": 100160,
+    "payload": [
+      300544,
+      300544
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      30656,
+      30656
+    ]
+  },
+  {
+    "script": "H0c.bin",
+    "member": "M_H26011.bin.gz",
+    "slot": 100144,
+    "payload": [
+      300544,
+      300544
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      30656,
+      30656
+    ]
+  },
+  {
+    "script": "H1a.bin",
+    "member": "M_H02100.bin.gz",
+    "slot": 68048,
+    "payload": [
+      295616,
+      295616
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      192,
+      192
+    ]
+  },
+  {
+    "script": "H1a.bin",
+    "member": "M_H02102.bin.gz",
+    "slot": 67984,
+    "payload": [
+      295552,
+      295552
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      192,
+      192
+    ]
+  },
+  {
+    "script": "H1a.bin",
+    "member": "M_H04100.bin.gz",
+    "slot": 61856,
+    "payload": [
+      294848,
+      294848
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      4480,
+      4480
+    ]
+  },
+  {
+    "script": "H1a.bin",
+    "member": "M_H04101.bin.gz",
+    "slot": 61776,
+    "payload": [
+      294720,
+      294720
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      4480,
+      4480
+    ]
+  },
+  {
+    "script": "H1a.bin",
+    "member": "M_H05100.bin.gz",
+    "slot": 49024,
+    "payload": [
+      284096,
+      284096
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      3200,
+      3200
+    ]
+  },
+  {
+    "script": "H1a.bin",
+    "member": "M_H06100.bin.gz",
+    "slot": 57360,
+    "payload": [
+      298624,
+      298624
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1600,
+      1600
+    ]
+  },
+  {
+    "script": "H1a.bin",
+    "member": "M_H06102.bin.gz",
+    "slot": 58624,
+    "payload": [
+      301568,
+      301568
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      4480,
+      4480
+    ]
+  },
+  {
+    "script": "H1a.bin",
+    "member": "M_H08100.bin.gz",
+    "slot": 62848,
+    "payload": [
+      297088,
+      297088
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      832,
+      832
+    ]
+  },
+  {
+    "script": "H1a.bin",
+    "member": "M_H08102.bin.gz",
+    "slot": 63920,
+    "payload": [
+      298816,
+      298816
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2496,
+      2496
+    ]
+  },
+  {
+    "script": "H1a.bin",
+    "member": "M_H08103.bin.gz",
+    "slot": 62848,
+    "payload": [
+      297088,
+      297088
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      832,
+      832
+    ]
+  },
+  {
+    "script": "H1a.bin",
+    "member": "M_H09100.bin.gz",
+    "slot": 68096,
+    "payload": [
+      318528,
+      318528
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      11392,
+      11392
+    ]
+  },
+  {
+    "script": "H1a.bin",
+    "member": "M_H10100.bin.gz",
+    "slot": 52384,
+    "payload": [
+      293312,
+      293312
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      4864,
+      4864
+    ]
+  },
+  {
+    "script": "H1a.bin",
+    "member": "M_H12100.bin.gz",
+    "slot": 56320,
+    "payload": [
+      295488,
+      295488
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      704,
+      704
+    ]
+  },
+  {
+    "script": "H1a.bin",
+    "member": "M_H13100.bin.gz",
+    "slot": 80848,
+    "payload": [
+      319232,
+      319232
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1088,
+      1088
+    ]
+  },
+  {
+    "script": "H1a.bin",
+    "member": "M_H13102.bin.gz",
+    "slot": 80624,
+    "payload": [
+      319680,
+      319680
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      448,
+      448
+    ]
+  },
+  {
+    "script": "H1a.bin",
+    "member": "M_H17100.bin.gz",
+    "slot": 56336,
+    "payload": [
+      298048,
+      298048
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1408,
+      1408
+    ]
+  },
+  {
+    "script": "H1a.bin",
+    "member": "M_H18100.bin.gz",
+    "slot": 36064,
+    "payload": [
+      266240,
+      266240
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      192,
+      192
+    ]
+  },
+  {
+    "script": "H1a.bin",
+    "member": "M_H18101.bin.gz",
+    "slot": 36320,
+    "payload": [
+      266624,
+      266624
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "script": "H1a.bin",
+    "member": "M_H25100.bin.gz",
+    "slot": 35952,
+    "payload": [
+      266304,
+      266304
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      192,
+      192
+    ]
+  },
+  {
+    "script": "H1a.bin",
+    "member": "M_H25101.bin.gz",
+    "slot": 36112,
+    "payload": [
+      266496,
+      266496
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      448,
+      448
+    ]
+  },
+  {
+    "script": "H1b.bin",
+    "member": "M_H15100.bin.gz",
+    "slot": 65440,
+    "payload": [
+      300288,
+      300288
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2432,
+      2432
+    ]
+  },
+  {
+    "script": "H1b.bin",
+    "member": "M_H15101.bin.gz",
+    "slot": 65376,
+    "payload": [
+      300160,
+      300160
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2304,
+      2304
+    ]
+  },
+  {
+    "script": "H1b.bin",
+    "member": "M_H15104.bin.gz",
+    "slot": 64176,
+    "payload": [
+      298112,
+      298112
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      256,
+      256
+    ]
+  },
+  {
+    "script": "H1b.bin",
+    "member": "M_H24100.bin.gz",
+    "slot": 62992,
+    "payload": [
+      296448,
+      296448
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      448,
+      448
+    ]
+  },
+  {
+    "script": "H1b.bin",
+    "member": "M_H27100.bin.gz",
+    "slot": 67712,
+    "payload": [
+      301248,
+      301248
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      8000,
+      8000
+    ]
+  },
+  {
+    "script": "H1c.bin",
+    "member": "M_H19100.bin.gz",
+    "slot": 50288,
+    "payload": [
+      270208,
+      270208
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      704,
+      704
+    ]
+  },
+  {
+    "script": "H1c.bin",
+    "member": "M_H19102.bin.gz",
+    "slot": 55936,
+    "payload": [
+      273280,
+      273280
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      704,
+      704
+    ]
+  },
+  {
+    "script": "H1c.bin",
+    "member": "M_H19104.bin.gz",
+    "slot": 50096,
+    "payload": [
+      269184,
+      269184
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      704,
+      704
+    ]
+  },
+  {
+    "script": "H1c.bin",
+    "member": "M_H26100.bin.gz",
+    "slot": 86672,
+    "payload": [
+      267200,
+      267200
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "H1c.bin",
+    "member": "M_H26101.bin.gz",
+    "slot": 86656,
+    "payload": [
+      267200,
+      267200
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "H1c.bin",
+    "member": "M_H26104.bin.gz",
+    "slot": 86656,
+    "payload": [
+      267200,
+      267200
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "H1c.bin",
+    "member": "M_H26105.bin.gz",
+    "slot": 86640,
+    "payload": [
+      267200,
+      267200
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "H1c.bin",
+    "member": "M_H26108.bin.gz",
+    "slot": 87232,
+    "payload": [
+      267200,
+      267200
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "H1c.bin",
+    "member": "M_H26109.bin.gz",
+    "slot": 81712,
+    "payload": [
+      266176,
+      266176
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      960,
+      960
+    ]
+  },
+  {
+    "script": "H2a.bin",
+    "member": "M_H02200.bin.gz",
+    "slot": 63904,
+    "payload": [
+      295680,
+      295680
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      192,
+      192
+    ]
+  },
+  {
+    "script": "H2a.bin",
+    "member": "M_H02202.bin.gz",
+    "slot": 63840,
+    "payload": [
+      295616,
+      295616
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      192,
+      192
+    ]
+  },
+  {
+    "script": "H2a.bin",
+    "member": "M_H04200.bin.gz",
+    "slot": 47568,
+    "payload": [
+      286656,
+      286656
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      192,
+      192
+    ]
+  },
+  {
+    "script": "H2a.bin",
+    "member": "M_H05200.bin.gz",
+    "slot": 47264,
+    "payload": [
+      285056,
+      285056
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      3200,
+      3200
+    ]
+  },
+  {
+    "script": "H2a.bin",
+    "member": "M_H06200.bin.gz",
+    "slot": 55216,
+    "payload": [
+      316416,
+      316416
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      12928,
+      12928
+    ]
+  },
+  {
+    "script": "H2a.bin",
+    "member": "M_H06202.bin.gz",
+    "slot": 55504,
+    "payload": [
+      317056,
+      317056
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      13568,
+      13568
+    ]
+  },
+  {
+    "script": "H2a.bin",
+    "member": "M_H10200.bin.gz",
+    "slot": 50672,
+    "payload": [
+      285056,
+      285056
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      320,
+      320
+    ]
+  },
+  {
+    "script": "H2a.bin",
+    "member": "M_H11200.bin.gz",
+    "slot": 58288,
+    "payload": [
+      296512,
+      296512
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      192,
+      192
+    ]
+  },
+  {
+    "script": "H2a.bin",
+    "member": "M_H13204.bin.gz",
+    "slot": 75536,
+    "payload": [
+      320640,
+      320640
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2560,
+      2560
+    ]
+  },
+  {
+    "script": "H2a.bin",
+    "member": "M_H17200.bin.gz",
+    "slot": 45728,
+    "payload": [
+      292096,
+      292096
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      192,
+      192
+    ]
+  },
+  {
+    "script": "H2a.bin",
+    "member": "M_H18200.bin.gz",
+    "slot": 26512,
+    "payload": [
+      266368,
+      266368
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      192,
+      192
+    ]
+  },
+  {
+    "script": "H2a.bin",
+    "member": "M_H18201.bin.gz",
+    "slot": 26704,
+    "payload": [
+      266688,
+      266688
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "script": "H2a.bin",
+    "member": "M_H25200.bin.gz",
+    "slot": 31776,
+    "payload": [
+      267520,
+      267520
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      192,
+      192
+    ]
+  },
+  {
+    "script": "H2a.bin",
+    "member": "M_H25201.bin.gz",
+    "slot": 31952,
+    "payload": [
+      267712,
+      267712
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      448,
+      448
+    ]
+  },
+  {
+    "script": "H2b.bin",
+    "member": "M_H15200.bin.gz",
+    "slot": 57424,
+    "payload": [
+      297024,
+      297024
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      256,
+      256
+    ]
+  },
+  {
+    "script": "H2b.bin",
+    "member": "M_H15201.bin.gz",
+    "slot": 57936,
+    "payload": [
+      297920,
+      297920
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1088,
+      1088
+    ]
+  },
+  {
+    "script": "H2b.bin",
+    "member": "M_H16200.bin.gz",
+    "slot": 59152,
+    "payload": [
+      301312,
+      301312
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      640,
+      640
+    ]
+  },
+  {
+    "script": "H2b.bin",
+    "member": "M_H16201.bin.gz",
+    "slot": 59168,
+    "payload": [
+      301312,
+      301312
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      640,
+      640
+    ]
+  },
+  {
+    "script": "H2b.bin",
+    "member": "M_H24200.bin.gz",
+    "slot": 66352,
+    "payload": [
+      296768,
+      296768
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "script": "I01.bin",
+    "member": "M_I01000.bin.gz",
+    "slot": 36816,
+    "payload": [
+      264768,
+      264768
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1216,
+      1216
+    ]
+  },
+  {
+    "script": "I03.bin",
+    "member": "M_I03000.bin.gz",
+    "slot": 34784,
+    "payload": [
+      264832,
+      264832
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1280,
+      1280
+    ]
+  },
+  {
+    "script": "I03.bin",
+    "member": "M_I03200.bin.gz",
+    "slot": 36352,
+    "payload": [
+      264832,
+      264832
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1280,
+      1280
+    ]
+  },
+  {
+    "script": "I04.bin",
+    "member": "M_I04000.bin.gz",
+    "slot": 57424,
+    "payload": [
+      265344,
+      265344
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      704,
+      704
+    ]
+  },
+  {
+    "script": "I06.bin",
+    "member": "M_I06000.bin.gz",
+    "slot": 49232,
+    "payload": [
+      271232,
+      271232
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2496,
+      2496
+    ]
+  },
+  {
+    "script": "I06.bin",
+    "member": "M_I06001.bin.gz",
+    "slot": 49248,
+    "payload": [
+      271232,
+      271232
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2496,
+      2496
+    ]
+  },
+  {
+    "script": "I06.bin",
+    "member": "M_I06002.bin.gz",
+    "slot": 49152,
+    "payload": [
+      271232,
+      271232
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2496,
+      2496
+    ]
+  },
+  {
+    "script": "I06.bin",
+    "member": "M_I06003.bin.gz",
+    "slot": 49344,
+    "payload": [
+      271232,
+      271232
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2496,
+      2496
+    ]
+  },
+  {
+    "script": "I06.bin",
+    "member": "M_I06004.bin.gz",
+    "slot": 48976,
+    "payload": [
+      271232,
+      271232
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2496,
+      2496
+    ]
+  },
+  {
+    "script": "I07.bin",
+    "member": "M_I07000.bin.gz",
+    "slot": 28000,
+    "payload": [
+      264128,
+      264128
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      640,
+      640
+    ]
+  },
+  {
+    "script": "I08.bin",
+    "member": "M_I08000.bin.gz",
+    "slot": 29728,
+    "payload": [
+      263744,
+      263744
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      256,
+      256
+    ]
+  },
+  {
+    "script": "I09.bin",
+    "member": "M_I09000.bin.gz",
+    "slot": 34496,
+    "payload": [
+      263808,
+      263808
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      320,
+      320
+    ]
+  },
+  {
+    "script": "I12.bin",
+    "member": "M_I12000.bin.gz",
+    "slot": 37376,
+    "payload": [
+      264128,
+      264128
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      640,
+      640
+    ]
+  },
+  {
+    "script": "I13.bin",
+    "member": "M_I13000.bin.gz",
+    "slot": 21680,
+    "payload": [
+      265088,
+      265088
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1600,
+      1600
+    ]
+  },
+  {
+    "script": "I16.bin",
+    "member": "M_I16000.bin.gz",
+    "slot": 36896,
+    "payload": [
+      263744,
+      263744
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      256,
+      256
+    ]
+  },
+  {
+    "script": "I16.bin",
+    "member": "M_I16100.bin.gz",
+    "slot": 43728,
+    "payload": [
+      264768,
+      264768
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      256,
+      256
+    ]
+  },
+  {
+    "script": "I16.bin",
+    "member": "M_I16200.bin.gz",
+    "slot": 46512,
+    "payload": [
+      263744,
+      263744
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      256,
+      256
+    ]
+  },
+  {
+    "script": "I18.bin",
+    "member": "M_I18000.bin.gz",
+    "slot": 31104,
+    "payload": [
+      263936,
+      263936
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      448,
+      448
+    ]
+  },
+  {
+    "script": "I18.bin",
+    "member": "M_I18001.bin.gz",
+    "slot": 31104,
+    "payload": [
+      263936,
+      263936
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      448,
+      448
+    ]
+  },
+  {
+    "script": "I19.bin",
+    "member": "M_I19000.bin.gz",
+    "slot": 36528,
+    "payload": [
+      265152,
+      265152
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      640,
+      640
+    ]
+  },
+  {
+    "script": "I20.bin",
+    "member": "M_I20000.bin.gz",
+    "slot": 41936,
+    "payload": [
+      263872,
+      263872
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      384,
+      384
+    ]
+  },
+  {
+    "script": "I21.bin",
+    "member": "M_I21000.bin.gz",
+    "slot": 36752,
+    "payload": [
+      264128,
+      264128
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      640,
+      640
+    ]
+  },
+  {
+    "script": "I21.bin",
+    "member": "M_I21010.bin.gz",
+    "slot": 38016,
+    "payload": [
+      264128,
+      264128
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      640,
+      640
+    ]
+  },
+  {
+    "script": "I21.bin",
+    "member": "M_I21020.bin.gz",
+    "slot": 39120,
+    "payload": [
+      264128,
+      264128
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      640,
+      640
+    ]
+  },
+  {
+    "script": "I21.bin",
+    "member": "M_I21030.bin.gz",
+    "slot": 39328,
+    "payload": [
+      264128,
+      264128
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      640,
+      640
+    ]
+  },
+  {
+    "script": "I21.bin",
+    "member": "M_I21040.bin.gz",
+    "slot": 37088,
+    "payload": [
+      264128,
+      264128
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      640,
+      640
+    ]
+  },
+  {
+    "script": "I21.bin",
+    "member": "M_I21200.bin.gz",
+    "slot": 37632,
+    "payload": [
+      264128,
+      264128
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      640,
+      640
+    ]
+  },
+  {
+    "script": "I21.bin",
+    "member": "M_I21210.bin.gz",
+    "slot": 39008,
+    "payload": [
+      264128,
+      264128
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      640,
+      640
+    ]
+  },
+  {
+    "script": "I21.bin",
+    "member": "M_I21220.bin.gz",
+    "slot": 38816,
+    "payload": [
+      264128,
+      264128
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      640,
+      640
+    ]
+  },
+  {
+    "script": "I21.bin",
+    "member": "M_I21230.bin.gz",
+    "slot": 38432,
+    "payload": [
+      264128,
+      264128
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      640,
+      640
+    ]
+  },
+  {
+    "script": "I21.bin",
+    "member": "M_I21240.bin.gz",
+    "slot": 38208,
+    "payload": [
+      264128,
+      264128
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      640,
+      640
+    ]
+  },
+  {
+    "script": "I22.bin",
+    "member": "M_I22000.bin.gz",
+    "slot": 46592,
+    "payload": [
+      264192,
+      264192
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      704,
+      704
+    ]
+  },
+  {
+    "script": "I23.bin",
+    "member": "M_I23000.bin.gz",
+    "slot": 44624,
+    "payload": [
+      266496,
+      266496
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2944,
+      2944
+    ]
+  },
+  {
+    "script": "I25.bin",
+    "member": "M_I25000.bin.gz",
+    "slot": 48368,
+    "payload": [
+      264896,
+      264896
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      384,
+      384
+    ]
+  },
+  {
+    "script": "I26.bin",
+    "member": "M_I26000.bin.gz",
+    "slot": 63312,
+    "payload": [
+      266304,
+      266304
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "script": "I26.bin",
+    "member": "M_I26100.bin.gz",
+    "slot": 62672,
+    "payload": [
+      266304,
+      266304
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "script": "I27.bin",
+    "member": "M_I27000.bin.gz",
+    "slot": 49360,
+    "payload": [
+      266304,
+      266304
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "script": "I27.bin",
+    "member": "M_I27100.bin.gz",
+    "slot": 47568,
+    "payload": [
+      266304,
+      266304
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "script": "I28.bin",
+    "member": "M_I28000.bin.gz",
+    "slot": 46400,
+    "payload": [
+      266304,
+      266304
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "script": "I28.bin",
+    "member": "M_I28100.bin.gz",
+    "slot": 47520,
+    "payload": [
+      266304,
+      266304
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "script": "I29.bin",
+    "member": "M_I29000.bin.gz",
+    "slot": 57632,
+    "payload": [
+      266304,
+      266304
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "script": "I29.bin",
+    "member": "M_I29100.bin.gz",
+    "slot": 57472,
+    "payload": [
+      266304,
+      266304
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "script": "I30.bin",
+    "member": "M_I30000.bin.gz",
+    "slot": 23776,
+    "payload": [
+      265664,
+      265664
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2176,
+      2176
+    ]
+  },
+  {
+    "script": "I31.bin",
+    "member": "M_I31000.bin.gz",
+    "slot": 39488,
+    "payload": [
+      267904,
+      267904
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      3264,
+      3264
+    ]
+  },
+  {
+    "script": "I33.bin",
+    "member": "M_I33000.bin.gz",
+    "slot": 18336,
+    "payload": [
+      263744,
+      263744
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      256,
+      256
+    ]
+  },
+  {
+    "script": "I34.bin",
+    "member": "M_I34000.bin.gz",
+    "slot": 41840,
+    "payload": [
+      265088,
+      265088
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1600,
+      1600
+    ]
+  },
+  {
+    "script": "I35.bin",
+    "member": "M_I35000.bin.gz",
+    "slot": 34896,
+    "payload": [
+      265216,
+      265216
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      704,
+      704
+    ]
+  },
+  {
+    "script": "I36.bin",
+    "member": "M_I36000.bin.gz",
+    "slot": 16240,
+    "payload": [
+      265920,
+      265920
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2432,
+      2432
+    ]
+  },
+  {
+    "script": "I37.bin",
+    "member": "M_I37000.bin.gz",
+    "slot": 16816,
+    "payload": [
+      265856,
+      265856
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2368,
+      2368
+    ]
+  },
+  {
+    "script": "I38.bin",
+    "member": "M_I38000.bin.gz",
+    "slot": 15888,
+    "payload": [
+      265856,
+      265856
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2368,
+      2368
+    ]
+  },
+  {
+    "script": "I39.bin",
+    "member": "M_I39000.bin.gz",
+    "slot": 15648,
+    "payload": [
+      265856,
+      265856
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2368,
+      2368
+    ]
+  },
+  {
+    "script": "I40.bin",
+    "member": "M_I40000.bin.gz",
+    "slot": 16256,
+    "payload": [
+      266048,
+      266048
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2560,
+      2560
+    ]
+  },
+  {
+    "script": "I41.bin",
+    "member": "M_I41000.bin.gz",
+    "slot": 15952,
+    "payload": [
+      265856,
+      265856
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2368,
+      2368
+    ]
+  },
+  {
+    "script": "I42.bin",
+    "member": "M_I42000.bin.gz",
+    "slot": 15088,
+    "payload": [
+      266112,
+      266112
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2624,
+      2624
+    ]
+  },
+  {
+    "script": "I43.bin",
+    "member": "M_I43000.bin.gz",
+    "slot": 16144,
+    "payload": [
+      265408,
+      265408
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      1920,
+      1920
+    ]
+  },
+  {
+    "script": "I44.bin",
+    "member": "M_I44000.bin.gz",
+    "slot": 47088,
+    "payload": [
+      266368,
+      266368
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2816,
+      2816
+    ]
+  },
+  {
+    "script": "I44.bin",
+    "member": "M_I44001.bin.gz",
+    "slot": 57664,
+    "payload": [
+      266432,
+      266432
+    ],
+    "inner_changes": [],
+    "inner_change_count": 0,
+    "dialog_size": [
+      2816,
+      2816
+    ]
+  }
+]

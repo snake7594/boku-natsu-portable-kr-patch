@@ -1,0 +1,574 @@
+{
+  "global_pause_space_removals": 0,
+  "global_changes": [],
+  "member_fit": [
+    {
+      "script": "A0.bin",
+      "pack_member": "M_A03000.bin.gz",
+      "orig_dialog_size": 38912,
+      "final_dialog_size": 38886,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 9106,
+          "block_index": 0,
+          "element_index": 42,
+          "before_bytes": 304,
+          "after_bytes": 250,
+          "before": "교감선생「어라　너도　곤충\n씨름을　하고　있는　거니{PAUSE:006F}이기려면　시합　시작　직전에、\n씨름판　위에서　곤충의　등을\n콕콕　찌르는　거야{PAUSE:00AE}아무튼　몇　번이고　끈질기게\n찔러　보렴　그러면{PAUSE:0054}곤충이　흥분해서　기술이　잘\n나온단다　이게　바로、{PAUSE:0072}선생님이　직접　전수하는\n울트라　콕콕　필승법이란다」",
+          "after": "교감선생「어라너도곤충\n씨름을하고있는거니{PAUSE:006F}이기려면시합시작직전에、\n씨름판위에서곤충의등을\n콕콕찌르는거야{PAUSE:00AE}아무튼몇번이고끈질기게\n찔러보렴그러면{PAUSE:0054}곤충이흥분해서기술이잘\n나온단다이게바로、{PAUSE:0072}선생님이직접전수하는\n울트라콕콕필승법이란다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9105,
+          "block_index": 1,
+          "element_index": 42,
+          "before_bytes": 304,
+          "after_bytes": 250,
+          "before": "교감선생「어라　너도　곤충\n씨름을　하고　있는　거니{PAUSE:006F}이기려면　시합　시작　직전에、\n씨름판　위에서　곤충의　등을\n콕콕　찌르는　거야{PAUSE:00AE}아무튼　몇　번이고　끈질기게\n찔러　보렴　그러면{PAUSE:0054}곤충이　흥분해서　기술이　잘\n나온단다　이게　바로、{PAUSE:0072}선생님이　직접　전수하는\n울트라　콕콕　필승법이란다」",
+          "after": "교감선생「어라너도곤충\n씨름을하고있는거니{PAUSE:006F}이기려면시합시작직전에、\n씨름판위에서곤충의등을\n콕콕찌르는거야{PAUSE:00AE}아무튼몇번이고끈질기게\n찔러보렴그러면{PAUSE:0054}곤충이흥분해서기술이잘\n나온단다이게바로、{PAUSE:0072}선생님이직접전수하는\n울트라콕콕필승법이란다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9103,
+          "block_index": 3,
+          "element_index": 42,
+          "before_bytes": 304,
+          "after_bytes": 250,
+          "before": "교감선생「어라　너도　곤충\n씨름을　하고　있는　거니{PAUSE:006F}이기려면　시합　시작　직전에、\n씨름판　위에서　곤충의　등을\n콕콕　찌르는　거야{PAUSE:00AE}아무튼　몇　번이고　끈질기게\n찔러　보렴　그러면{PAUSE:0054}곤충이　흥분해서　기술이　잘\n나온단다　이게　바로、{PAUSE:0072}선생님이　직접　전수하는\n울트라　콕콕　필승법이란다」",
+          "after": "교감선생「어라너도곤충\n씨름을하고있는거니{PAUSE:006F}이기려면시합시작직전에、\n씨름판위에서곤충의등을\n콕콕찌르는거야{PAUSE:00AE}아무튼몇번이고끈질기게\n찔러보렴그러면{PAUSE:0054}곤충이흥분해서기술이잘\n나온단다이게바로、{PAUSE:0072}선생님이직접전수하는\n울트라콕콕필승법이란다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9103,
+          "block_index": 4,
+          "element_index": 42,
+          "before_bytes": 304,
+          "after_bytes": 250,
+          "before": "교감선생「어라　너도　곤충\n씨름을　하고　있는　거니{PAUSE:006F}이기려면　시합　시작　직전에、\n씨름판　위에서　곤충의　등을\n콕콕　찌르는　거야{PAUSE:00AE}아무튼　몇　번이고　끈질기게\n찔러　보렴　그러면{PAUSE:0054}곤충이　흥분해서　기술이　잘\n나온단다　이게　바로、{PAUSE:0072}선생님이　직접　전수하는\n울트라　콕콕　필승법이란다」",
+          "after": "교감선생「어라너도곤충\n씨름을하고있는거니{PAUSE:006F}이기려면시합시작직전에、\n씨름판위에서곤충의등을\n콕콕찌르는거야{PAUSE:00AE}아무튼몇번이고끈질기게\n찔러보렴그러면{PAUSE:0054}곤충이흥분해서기술이잘\n나온단다이게바로、{PAUSE:0072}선생님이직접전수하는\n울트라콕콕필승법이란다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9102,
+          "block_index": 5,
+          "element_index": 42,
+          "before_bytes": 304,
+          "after_bytes": 250,
+          "before": "교감선생「어라　너도　곤충\n씨름을　하고　있는　거니{PAUSE:006F}이기려면　시합　시작　직전에、\n씨름판　위에서　곤충의　등을\n콕콕　찌르는　거야{PAUSE:00AE}아무튼　몇　번이고　끈질기게\n찔러　보렴　그러면{PAUSE:0054}곤충이　흥분해서　기술이　잘\n나온단다　이게　바로、{PAUSE:0072}선생님이　직접　전수하는\n울트라　콕콕　필승법이란다」",
+          "after": "교감선생「어라너도곤충\n씨름을하고있는거니{PAUSE:006F}이기려면시합시작직전에、\n씨름판위에서곤충의등을\n콕콕찌르는거야{PAUSE:00AE}아무튼몇번이고끈질기게\n찔러보렴그러면{PAUSE:0054}곤충이흥분해서기술이잘\n나온단다이게바로、{PAUSE:0072}선생님이직접전수하는\n울트라콕콕필승법이란다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9101,
+          "block_index": 6,
+          "element_index": 42,
+          "before_bytes": 304,
+          "after_bytes": 250,
+          "before": "교감선생「어라　너도　곤충\n씨름을　하고　있는　거니{PAUSE:006F}이기려면　시합　시작　직전에、\n씨름판　위에서　곤충의　등을\n콕콕　찌르는　거야{PAUSE:00AE}아무튼　몇　번이고　끈질기게\n찔러　보렴　그러면{PAUSE:0054}곤충이　흥분해서　기술이　잘\n나온단다　이게　바로、{PAUSE:0072}선생님이　직접　전수하는\n울트라　콕콕　필승법이란다」",
+          "after": "교감선생「어라너도곤충\n씨름을하고있는거니{PAUSE:006F}이기려면시합시작직전에、\n씨름판위에서곤충의등을\n콕콕찌르는거야{PAUSE:00AE}아무튼몇번이고끈질기게\n찔러보렴그러면{PAUSE:0054}곤충이흥분해서기술이잘\n나온단다이게바로、{PAUSE:0072}선생님이직접전수하는\n울트라콕콕필승법이란다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9105,
+          "block_index": 1,
+          "element_index": 92,
+          "before_bytes": 248,
+          "after_bytes": 204,
+          "before": "교감선생님「해마다　여름방학\n후반에는{PAUSE:003F}연수　때문에　멀리　있는\n도시까지　가게　되어　있단다{PAUSE:0078}요　몇　년、　백중　지나서부터{PAUSE:003F}산속　깊은　곳에　대학생\n연구자가　온다는　모양인데{PAUSE:007E}사실은　그　사람을　만나고\n나서　가고　싶은데　말이지」",
+          "after": "교감선생님「해마다여름방학\n후반에는{PAUSE:003F}연수때문에멀리있는\n도시까지가게되어있단다{PAUSE:0078}요몇년、백중지나서부터{PAUSE:003F}산속깊은곳에대학생\n연구자가온다는모양인데{PAUSE:007E}사실은그사람을만나고\n나서가고싶은데말이지」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9106,
+          "block_index": 0,
+          "element_index": 52,
+          "before_bytes": 206,
+          "after_bytes": 172,
+          "before": "교감선생「이　근처에서　경치\n좋은　곳이라고{PAUSE:0063}하면　꼭대기산　꼭대기지{PAUSE:0051}하지만　거기　등산로　입구는\n이른　시간에　닫혀　버리니까{PAUSE:0072}그냥　걸어서　시간　맞춰　가는\n건{PAUSE:0054}좀　어려울지도　모르겠구나」",
+          "after": "교감선생「이근처에서경치\n좋은곳이라고{PAUSE:0063}하면꼭대기산꼭대기지{PAUSE:0051}하지만거기등산로입구는\n이른시간에닫혀버리니까{PAUSE:0072}그냥걸어서시간맞춰가는\n건{PAUSE:0054}좀어려울지도모르겠구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9105,
+          "block_index": 1,
+          "element_index": 52,
+          "before_bytes": 206,
+          "after_bytes": 172,
+          "before": "교감선생「이　근처에서　경치\n좋은　곳이라고{PAUSE:0063}하면　꼭대기산　꼭대기지{PAUSE:0051}하지만　거기　등산로　입구는\n이른　시간에　닫혀　버리니까{PAUSE:0072}그냥　걸어서　시간　맞춰　가는\n건{PAUSE:0054}좀　어려울지도　모르겠구나」",
+          "after": "교감선생「이근처에서경치\n좋은곳이라고{PAUSE:0063}하면꼭대기산꼭대기지{PAUSE:0051}하지만거기등산로입구는\n이른시간에닫혀버리니까{PAUSE:0072}그냥걸어서시간맞춰가는\n건{PAUSE:0054}좀어려울지도모르겠구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9103,
+          "block_index": 3,
+          "element_index": 52,
+          "before_bytes": 206,
+          "after_bytes": 172,
+          "before": "교감선생「이　근처에서　경치\n좋은　곳이라고{PAUSE:0063}하면　꼭대기산　꼭대기지{PAUSE:0051}하지만　거기　등산로　입구는\n이른　시간에　닫혀　버리니까{PAUSE:0072}그냥　걸어서　시간　맞춰　가는\n건{PAUSE:0054}좀　어려울지도　모르겠구나」",
+          "after": "교감선생「이근처에서경치\n좋은곳이라고{PAUSE:0063}하면꼭대기산꼭대기지{PAUSE:0051}하지만거기등산로입구는\n이른시간에닫혀버리니까{PAUSE:0072}그냥걸어서시간맞춰가는\n건{PAUSE:0054}좀어려울지도모르겠구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9103,
+          "block_index": 4,
+          "element_index": 52,
+          "before_bytes": 206,
+          "after_bytes": 172,
+          "before": "교감선생「이　근처에서　경치\n좋은　곳이라고{PAUSE:0063}하면　꼭대기산　꼭대기지{PAUSE:0051}하지만　거기　등산로　입구는\n이른　시간에　닫혀　버리니까{PAUSE:0072}그냥　걸어서　시간　맞춰　가는\n건{PAUSE:0054}좀　어려울지도　모르겠구나」",
+          "after": "교감선생「이근처에서경치\n좋은곳이라고{PAUSE:0063}하면꼭대기산꼭대기지{PAUSE:0051}하지만거기등산로입구는\n이른시간에닫혀버리니까{PAUSE:0072}그냥걸어서시간맞춰가는\n건{PAUSE:0054}좀어려울지도모르겠구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9102,
+          "block_index": 5,
+          "element_index": 52,
+          "before_bytes": 206,
+          "after_bytes": 172,
+          "before": "교감선생「이　근처에서　경치\n좋은　곳이라고{PAUSE:0063}하면　꼭대기산　꼭대기지{PAUSE:0051}하지만　거기　등산로　입구는\n이른　시간에　닫혀　버리니까{PAUSE:0072}그냥　걸어서　시간　맞춰　가는\n건{PAUSE:0054}좀　어려울지도　모르겠구나」",
+          "after": "교감선생「이근처에서경치\n좋은곳이라고{PAUSE:0063}하면꼭대기산꼭대기지{PAUSE:0051}하지만거기등산로입구는\n이른시간에닫혀버리니까{PAUSE:0072}그냥걸어서시간맞춰가는\n건{PAUSE:0054}좀어려울지도모르겠구나」"
+        }
+      ]
+    },
+    {
+      "script": "A0.bin",
+      "pack_member": "M_A15000.bin.gz",
+      "orig_dialog_size": 8448,
+      "final_dialog_size": 8442,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 9104,
+          "block_index": 3,
+          "element_index": 42,
+          "before_bytes": 304,
+          "after_bytes": 250,
+          "before": "교감선생「어라　너도　곤충\n씨름을　하고　있는　거니{PAUSE:006F}이기려면　시합　시작　직전에、\n씨름판　위에서　곤충의　등을\n콕콕　찌르는　거야{PAUSE:00AE}아무튼　몇　번이고　끈질기게\n찔러　보렴　그러면{PAUSE:0054}곤충이　흥분해서　기술이　잘\n나온단다　이게　바로、{PAUSE:0072}선생님이　직접　전수하는\n울트라　콕콕　필승법이란다」",
+          "after": "교감선생「어라너도곤충\n씨름을하고있는거니{PAUSE:006F}이기려면시합시작직전에、\n씨름판위에서곤충의등을\n콕콕찌르는거야{PAUSE:00AE}아무튼몇번이고끈질기게\n찔러보렴그러면{PAUSE:0054}곤충이흥분해서기술이잘\n나온단다이게바로、{PAUSE:0072}선생님이직접전수하는\n울트라콕콕필승법이란다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9104,
+          "block_index": 3,
+          "element_index": 52,
+          "before_bytes": 206,
+          "after_bytes": 172,
+          "before": "교감선생「이　근처에서　경치\n좋은　곳이라고{PAUSE:0063}하면　꼭대기산　꼭대기지{PAUSE:0051}하지만　거기　등산로　입구는\n이른　시간에　닫혀　버리니까{PAUSE:0072}그냥　걸어서　시간　맞춰　가는\n건{PAUSE:0054}좀　어려울지도　모르겠구나」",
+          "after": "교감선생「이근처에서경치\n좋은곳이라고{PAUSE:0063}하면꼭대기산꼭대기지{PAUSE:0051}하지만거기등산로입구는\n이른시간에닫혀버리니까{PAUSE:0072}그냥걸어서시간맞춰가는\n건{PAUSE:0054}좀어려울지도모르겠구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9104,
+          "block_index": 3,
+          "element_index": 50,
+          "before_bytes": 172,
+          "after_bytes": 142,
+          "before": "교감선생님「그림　일기에는\n그날　있었던{PAUSE:004E}일　중에서　가장　인상　깊었던\n걸{PAUSE:0057}적는　거란다　하지만　아무런\n큰　사건이　일어나지　않았다고{PAUSE:0078}해서　실망하면　안　돼」",
+          "after": "교감선생님「그림일기에는\n그날있었던{PAUSE:004E}일중에서가장인상깊었던\n걸{PAUSE:0057}적는거란다하지만아무런\n큰사건이일어나지않았다고{PAUSE:0078}해서실망하면안돼」"
+        }
+      ]
+    },
+    {
+      "script": "A0.bin",
+      "pack_member": "M_A18000.bin.gz",
+      "orig_dialog_size": 1408,
+      "final_dialog_size": 1388,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 3050,
+          "block_index": 0,
+          "element_index": 4,
+          "before_bytes": 264,
+          "after_bytes": 220,
+          "before": "『내가　집으로　돌아가기\n전날、　고속　도로　아래의\n비밀　기지에는　아무도{PAUSE:00F0}없었다…　그것은　당연히、\n나에게는　쓸쓸한　일이었지만{PAUSE:0090}그래도、　아이는　아이　나름의\n잔혹함을　알고　있는　법이라서{PAUSE:0087}이런　일도　있는　거지…\n하고、　스스로를　납득시켰다』",
+          "after": "『내가집으로돌아가기\n전날、고속도로아래의\n비밀기지에는아무도{PAUSE:00F0}없었다…그것은당연히、\n나에게는쓸쓸한일이었지만{PAUSE:0090}그래도、아이는아이나름의\n잔혹함을알고있는법이라서{PAUSE:0087}이런일도있는거지…\n하고、스스로를납득시켰다』"
+        }
+      ]
+    },
+    {
+      "script": "A1.bin",
+      "pack_member": "M_A03100.bin.gz",
+      "orig_dialog_size": 38912,
+      "final_dialog_size": 38886,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 9106,
+          "block_index": 0,
+          "element_index": 42,
+          "before_bytes": 304,
+          "after_bytes": 250,
+          "before": "교감선생「어라　너도　곤충\n씨름을　하고　있는　거니{PAUSE:006F}이기려면　시합　시작　직전에、\n씨름판　위에서　곤충의　등을\n콕콕　찌르는　거야{PAUSE:00AE}아무튼　몇　번이고　끈질기게\n찔러　보렴　그러면{PAUSE:0054}곤충이　흥분해서　기술이　잘\n나온단다　이게　바로、{PAUSE:0072}선생님이　직접　전수하는\n울트라　콕콕　필승법이란다」",
+          "after": "교감선생「어라너도곤충\n씨름을하고있는거니{PAUSE:006F}이기려면시합시작직전에、\n씨름판위에서곤충의등을\n콕콕찌르는거야{PAUSE:00AE}아무튼몇번이고끈질기게\n찔러보렴그러면{PAUSE:0054}곤충이흥분해서기술이잘\n나온단다이게바로、{PAUSE:0072}선생님이직접전수하는\n울트라콕콕필승법이란다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9105,
+          "block_index": 1,
+          "element_index": 42,
+          "before_bytes": 304,
+          "after_bytes": 250,
+          "before": "교감선생「어라　너도　곤충\n씨름을　하고　있는　거니{PAUSE:006F}이기려면　시합　시작　직전에、\n씨름판　위에서　곤충의　등을\n콕콕　찌르는　거야{PAUSE:00AE}아무튼　몇　번이고　끈질기게\n찔러　보렴　그러면{PAUSE:0054}곤충이　흥분해서　기술이　잘\n나온단다　이게　바로、{PAUSE:0072}선생님이　직접　전수하는\n울트라　콕콕　필승법이란다」",
+          "after": "교감선생「어라너도곤충\n씨름을하고있는거니{PAUSE:006F}이기려면시합시작직전에、\n씨름판위에서곤충의등을\n콕콕찌르는거야{PAUSE:00AE}아무튼몇번이고끈질기게\n찔러보렴그러면{PAUSE:0054}곤충이흥분해서기술이잘\n나온단다이게바로、{PAUSE:0072}선생님이직접전수하는\n울트라콕콕필승법이란다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9103,
+          "block_index": 3,
+          "element_index": 42,
+          "before_bytes": 304,
+          "after_bytes": 250,
+          "before": "교감선생「어라　너도　곤충\n씨름을　하고　있는　거니{PAUSE:006F}이기려면　시합　시작　직전에、\n씨름판　위에서　곤충의　등을\n콕콕　찌르는　거야{PAUSE:00AE}아무튼　몇　번이고　끈질기게\n찔러　보렴　그러면{PAUSE:0054}곤충이　흥분해서　기술이　잘\n나온단다　이게　바로、{PAUSE:0072}선생님이　직접　전수하는\n울트라　콕콕　필승법이란다」",
+          "after": "교감선생「어라너도곤충\n씨름을하고있는거니{PAUSE:006F}이기려면시합시작직전에、\n씨름판위에서곤충의등을\n콕콕찌르는거야{PAUSE:00AE}아무튼몇번이고끈질기게\n찔러보렴그러면{PAUSE:0054}곤충이흥분해서기술이잘\n나온단다이게바로、{PAUSE:0072}선생님이직접전수하는\n울트라콕콕필승법이란다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9103,
+          "block_index": 4,
+          "element_index": 42,
+          "before_bytes": 304,
+          "after_bytes": 250,
+          "before": "교감선생「어라　너도　곤충\n씨름을　하고　있는　거니{PAUSE:006F}이기려면　시합　시작　직전에、\n씨름판　위에서　곤충의　등을\n콕콕　찌르는　거야{PAUSE:00AE}아무튼　몇　번이고　끈질기게\n찔러　보렴　그러면{PAUSE:0054}곤충이　흥분해서　기술이　잘\n나온단다　이게　바로、{PAUSE:0072}선생님이　직접　전수하는\n울트라　콕콕　필승법이란다」",
+          "after": "교감선생「어라너도곤충\n씨름을하고있는거니{PAUSE:006F}이기려면시합시작직전에、\n씨름판위에서곤충의등을\n콕콕찌르는거야{PAUSE:00AE}아무튼몇번이고끈질기게\n찔러보렴그러면{PAUSE:0054}곤충이흥분해서기술이잘\n나온단다이게바로、{PAUSE:0072}선생님이직접전수하는\n울트라콕콕필승법이란다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9102,
+          "block_index": 5,
+          "element_index": 42,
+          "before_bytes": 304,
+          "after_bytes": 250,
+          "before": "교감선생「어라　너도　곤충\n씨름을　하고　있는　거니{PAUSE:006F}이기려면　시합　시작　직전에、\n씨름판　위에서　곤충의　등을\n콕콕　찌르는　거야{PAUSE:00AE}아무튼　몇　번이고　끈질기게\n찔러　보렴　그러면{PAUSE:0054}곤충이　흥분해서　기술이　잘\n나온단다　이게　바로、{PAUSE:0072}선생님이　직접　전수하는\n울트라　콕콕　필승법이란다」",
+          "after": "교감선생「어라너도곤충\n씨름을하고있는거니{PAUSE:006F}이기려면시합시작직전에、\n씨름판위에서곤충의등을\n콕콕찌르는거야{PAUSE:00AE}아무튼몇번이고끈질기게\n찔러보렴그러면{PAUSE:0054}곤충이흥분해서기술이잘\n나온단다이게바로、{PAUSE:0072}선생님이직접전수하는\n울트라콕콕필승법이란다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9101,
+          "block_index": 6,
+          "element_index": 42,
+          "before_bytes": 304,
+          "after_bytes": 250,
+          "before": "교감선생「어라　너도　곤충\n씨름을　하고　있는　거니{PAUSE:006F}이기려면　시합　시작　직전에、\n씨름판　위에서　곤충의　등을\n콕콕　찌르는　거야{PAUSE:00AE}아무튼　몇　번이고　끈질기게\n찔러　보렴　그러면{PAUSE:0054}곤충이　흥분해서　기술이　잘\n나온단다　이게　바로、{PAUSE:0072}선생님이　직접　전수하는\n울트라　콕콕　필승법이란다」",
+          "after": "교감선생「어라너도곤충\n씨름을하고있는거니{PAUSE:006F}이기려면시합시작직전에、\n씨름판위에서곤충의등을\n콕콕찌르는거야{PAUSE:00AE}아무튼몇번이고끈질기게\n찔러보렴그러면{PAUSE:0054}곤충이흥분해서기술이잘\n나온단다이게바로、{PAUSE:0072}선생님이직접전수하는\n울트라콕콕필승법이란다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9105,
+          "block_index": 1,
+          "element_index": 92,
+          "before_bytes": 248,
+          "after_bytes": 204,
+          "before": "교감선생님「해마다　여름방학\n후반에는{PAUSE:003F}연수　때문에　멀리　있는\n도시까지　가게　되어　있단다{PAUSE:0078}요　몇　년、　백중　지나서부터{PAUSE:003F}산속　깊은　곳에　대학생\n연구자가　온다는　모양인데{PAUSE:007E}사실은　그　사람을　만나고\n나서　가고　싶은데　말이지」",
+          "after": "교감선생님「해마다여름방학\n후반에는{PAUSE:003F}연수때문에멀리있는\n도시까지가게되어있단다{PAUSE:0078}요몇년、백중지나서부터{PAUSE:003F}산속깊은곳에대학생\n연구자가온다는모양인데{PAUSE:007E}사실은그사람을만나고\n나서가고싶은데말이지」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9106,
+          "block_index": 0,
+          "element_index": 52,
+          "before_bytes": 206,
+          "after_bytes": 172,
+          "before": "교감선생「이　근처에서　경치\n좋은　곳이라고{PAUSE:0063}하면　꼭대기산　꼭대기지{PAUSE:0051}하지만　거기　등산로　입구는\n이른　시간에　닫혀　버리니까{PAUSE:0072}그냥　걸어서　시간　맞춰　가는\n건{PAUSE:0054}좀　어려울지도　모르겠구나」",
+          "after": "교감선생「이근처에서경치\n좋은곳이라고{PAUSE:0063}하면꼭대기산꼭대기지{PAUSE:0051}하지만거기등산로입구는\n이른시간에닫혀버리니까{PAUSE:0072}그냥걸어서시간맞춰가는\n건{PAUSE:0054}좀어려울지도모르겠구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9105,
+          "block_index": 1,
+          "element_index": 52,
+          "before_bytes": 206,
+          "after_bytes": 172,
+          "before": "교감선생「이　근처에서　경치\n좋은　곳이라고{PAUSE:0063}하면　꼭대기산　꼭대기지{PAUSE:0051}하지만　거기　등산로　입구는\n이른　시간에　닫혀　버리니까{PAUSE:0072}그냥　걸어서　시간　맞춰　가는\n건{PAUSE:0054}좀　어려울지도　모르겠구나」",
+          "after": "교감선생「이근처에서경치\n좋은곳이라고{PAUSE:0063}하면꼭대기산꼭대기지{PAUSE:0051}하지만거기등산로입구는\n이른시간에닫혀버리니까{PAUSE:0072}그냥걸어서시간맞춰가는\n건{PAUSE:0054}좀어려울지도모르겠구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9103,
+          "block_index": 3,
+          "element_index": 52,
+          "before_bytes": 206,
+          "after_bytes": 172,
+          "before": "교감선생「이　근처에서　경치\n좋은　곳이라고{PAUSE:0063}하면　꼭대기산　꼭대기지{PAUSE:0051}하지만　거기　등산로　입구는\n이른　시간에　닫혀　버리니까{PAUSE:0072}그냥　걸어서　시간　맞춰　가는\n건{PAUSE:0054}좀　어려울지도　모르겠구나」",
+          "after": "교감선생「이근처에서경치\n좋은곳이라고{PAUSE:0063}하면꼭대기산꼭대기지{PAUSE:0051}하지만거기등산로입구는\n이른시간에닫혀버리니까{PAUSE:0072}그냥걸어서시간맞춰가는\n건{PAUSE:0054}좀어려울지도모르겠구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9103,
+          "block_index": 4,
+          "element_index": 52,
+          "before_bytes": 206,
+          "after_bytes": 172,
+          "before": "교감선생「이　근처에서　경치\n좋은　곳이라고{PAUSE:0063}하면　꼭대기산　꼭대기지{PAUSE:0051}하지만　거기　등산로　입구는\n이른　시간에　닫혀　버리니까{PAUSE:0072}그냥　걸어서　시간　맞춰　가는\n건{PAUSE:0054}좀　어려울지도　모르겠구나」",
+          "after": "교감선생「이근처에서경치\n좋은곳이라고{PAUSE:0063}하면꼭대기산꼭대기지{PAUSE:0051}하지만거기등산로입구는\n이른시간에닫혀버리니까{PAUSE:0072}그냥걸어서시간맞춰가는\n건{PAUSE:0054}좀어려울지도모르겠구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9102,
+          "block_index": 5,
+          "element_index": 52,
+          "before_bytes": 206,
+          "after_bytes": 172,
+          "before": "교감선생「이　근처에서　경치\n좋은　곳이라고{PAUSE:0063}하면　꼭대기산　꼭대기지{PAUSE:0051}하지만　거기　등산로　입구는\n이른　시간에　닫혀　버리니까{PAUSE:0072}그냥　걸어서　시간　맞춰　가는\n건{PAUSE:0054}좀　어려울지도　모르겠구나」",
+          "after": "교감선생「이근처에서경치\n좋은곳이라고{PAUSE:0063}하면꼭대기산꼭대기지{PAUSE:0051}하지만거기등산로입구는\n이른시간에닫혀버리니까{PAUSE:0072}그냥걸어서시간맞춰가는\n건{PAUSE:0054}좀어려울지도모르겠구나」"
+        }
+      ]
+    },
+    {
+      "script": "A1.bin",
+      "pack_member": "M_A15100.bin.gz",
+      "orig_dialog_size": 8448,
+      "final_dialog_size": 8442,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 9104,
+          "block_index": 3,
+          "element_index": 42,
+          "before_bytes": 304,
+          "after_bytes": 250,
+          "before": "교감선생「어라　너도　곤충\n씨름을　하고　있는　거니{PAUSE:006F}이기려면　시합　시작　직전에、\n씨름판　위에서　곤충의　등을\n콕콕　찌르는　거야{PAUSE:00AE}아무튼　몇　번이고　끈질기게\n찔러　보렴　그러면{PAUSE:0054}곤충이　흥분해서　기술이　잘\n나온단다　이게　바로、{PAUSE:0072}선생님이　직접　전수하는\n울트라　콕콕　필승법이란다」",
+          "after": "교감선생「어라너도곤충\n씨름을하고있는거니{PAUSE:006F}이기려면시합시작직전에、\n씨름판위에서곤충의등을\n콕콕찌르는거야{PAUSE:00AE}아무튼몇번이고끈질기게\n찔러보렴그러면{PAUSE:0054}곤충이흥분해서기술이잘\n나온단다이게바로、{PAUSE:0072}선생님이직접전수하는\n울트라콕콕필승법이란다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9104,
+          "block_index": 3,
+          "element_index": 52,
+          "before_bytes": 206,
+          "after_bytes": 172,
+          "before": "교감선생「이　근처에서　경치\n좋은　곳이라고{PAUSE:0063}하면　꼭대기산　꼭대기지{PAUSE:0051}하지만　거기　등산로　입구는\n이른　시간에　닫혀　버리니까{PAUSE:0072}그냥　걸어서　시간　맞춰　가는\n건{PAUSE:0054}좀　어려울지도　모르겠구나」",
+          "after": "교감선생「이근처에서경치\n좋은곳이라고{PAUSE:0063}하면꼭대기산꼭대기지{PAUSE:0051}하지만거기등산로입구는\n이른시간에닫혀버리니까{PAUSE:0072}그냥걸어서시간맞춰가는\n건{PAUSE:0054}좀어려울지도모르겠구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9104,
+          "block_index": 3,
+          "element_index": 50,
+          "before_bytes": 172,
+          "after_bytes": 142,
+          "before": "교감선생님「그림　일기에는\n그날　있었던{PAUSE:004E}일　중에서　가장　인상　깊었던\n걸{PAUSE:0057}적는　거란다　하지만　아무런\n큰　사건이　일어나지　않았다고{PAUSE:0078}해서　실망하면　안　돼」",
+          "after": "교감선생님「그림일기에는\n그날있었던{PAUSE:004E}일중에서가장인상깊었던\n걸{PAUSE:0057}적는거란다하지만아무런\n큰사건이일어나지않았다고{PAUSE:0078}해서실망하면안돼」"
+        }
+      ]
+    },
+    {
+      "script": "A1.bin",
+      "pack_member": "M_A18100.bin.gz",
+      "orig_dialog_size": 1408,
+      "final_dialog_size": 1388,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 3050,
+          "block_index": 0,
+          "element_index": 4,
+          "before_bytes": 264,
+          "after_bytes": 220,
+          "before": "『내가　집으로　돌아가기\n전날、　고속　도로　아래의\n비밀　기지에는　아무도{PAUSE:00F0}없었다…　그것은　당연히、\n나에게는　쓸쓸한　일이었지만{PAUSE:0090}그래도、　아이는　아이　나름의\n잔혹함을　알고　있는　법이라서{PAUSE:0087}이런　일도　있는　거지…\n하고、　스스로를　납득시켰다』",
+          "after": "『내가집으로돌아가기\n전날、고속도로아래의\n비밀기지에는아무도{PAUSE:00F0}없었다…그것은당연히、\n나에게는쓸쓸한일이었지만{PAUSE:0090}그래도、아이는아이나름의\n잔혹함을알고있는법이라서{PAUSE:0087}이런일도있는거지…\n하고、스스로를납득시켰다』"
+        }
+      ]
+    },
+    {
+      "script": "C0.bin",
+      "pack_member": "M_C11000.bin.gz",
+      "orig_dialog_size": 1536,
+      "final_dialog_size": 1508,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 1205,
+          "block_index": 2,
+          "element_index": 4,
+          "before_bytes": 172,
+          "after_bytes": 142,
+          "before": "『수령이　얼마나　되는　걸까…\n그{PAUSE:0054}상수리나무　거목은　나와　파란\n하늘　사이에　우뚝　솟아{PAUSE:008D}햇살　속에서　고요히、　그리고\n기분　좋게　우듬지를　흔들고\n있었다…』",
+          "after": "『수령이얼마나되는걸까…\n그{PAUSE:0054}상수리나무거목은나와파란\n하늘사이에우뚝솟아{PAUSE:008D}햇살속에서고요히、그리고\n기분좋게우듬지를흔들고\n있었다…』"
+        }
+      ]
+    },
+    {
+      "script": "C1.bin",
+      "pack_member": "M_C11100.bin.gz",
+      "orig_dialog_size": 1536,
+      "final_dialog_size": 1508,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 1205,
+          "block_index": 2,
+          "element_index": 4,
+          "before_bytes": 172,
+          "after_bytes": 142,
+          "before": "『수령이　얼마나　되는　걸까…\n그{PAUSE:0054}상수리나무　거목은　나와　파란\n하늘　사이에　우뚝　솟아{PAUSE:008D}햇살　속에서　고요히、　그리고\n기분　좋게　우듬지를　흔들고\n있었다…』",
+          "after": "『수령이얼마나되는걸까…\n그{PAUSE:0054}상수리나무거목은나와파란\n하늘사이에우뚝솟아{PAUSE:008D}햇살속에서고요히、그리고\n기분좋게우듬지를흔들고\n있었다…』"
+        }
+      ]
+    },
+    {
+      "script": "G2a.bin",
+      "pack_member": "M_G03200.bin.gz",
+      "orig_dialog_size": 1920,
+      "final_dialog_size": 1912,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 4029,
+          "block_index": 2,
+          "element_index": 4,
+          "before_bytes": 36,
+          "after_bytes": 22,
+          "before": "ー　４　Ｃ　Ｇ　降　歩　着　先\n束",
+          "after": "ー４ＣＧ降歩着先\n束"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 4029,
+          "block_index": 2,
+          "element_index": 8,
+          "before_bytes": 36,
+          "after_bytes": 22,
+          "before": "ー　４　Ｃ　Ｇ　降　歩　着　先\n束",
+          "after": "ー４ＣＧ降歩着先\n束"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 4029,
+          "block_index": 2,
+          "element_index": 10,
+          "before_bytes": 36,
+          "after_bytes": 22,
+          "before": "ー　４　Ｃ　Ｇ　降　歩　着　先\n束",
+          "after": "ー４ＣＧ降歩着先\n束"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 4029,
+          "block_index": 2,
+          "element_index": 12,
+          "before_bytes": 36,
+          "after_bytes": 22,
+          "before": "ー　４　Ｃ　Ｇ　降　歩　着　先\n束",
+          "after": "ー４ＣＧ降歩着先\n束"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 8004,
+          "block_index": 6,
+          "element_index": 4,
+          "before_bytes": 66,
+          "after_bytes": 56,
+          "before": "「물결　유리　찬장에　밥공기와\n국그릇이　가지런히　놓여\n있다」",
+          "after": "「물결유리찬장에밥공기와\n국그릇이가지런히놓여\n있다」"
+        }
+      ]
+    },
+    {
+      "script": "G2a.bin",
+      "pack_member": "M_G03202.bin.gz",
+      "orig_dialog_size": 1920,
+      "final_dialog_size": 1912,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 4029,
+          "block_index": 2,
+          "element_index": 4,
+          "before_bytes": 36,
+          "after_bytes": 22,
+          "before": "ー　４　Ｃ　Ｇ　降　歩　着　先\n束",
+          "after": "ー４ＣＧ降歩着先\n束"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 4029,
+          "block_index": 2,
+          "element_index": 8,
+          "before_bytes": 36,
+          "after_bytes": 22,
+          "before": "ー　４　Ｃ　Ｇ　降　歩　着　先\n束",
+          "after": "ー４ＣＧ降歩着先\n束"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 4029,
+          "block_index": 2,
+          "element_index": 10,
+          "before_bytes": 36,
+          "after_bytes": 22,
+          "before": "ー　４　Ｃ　Ｇ　降　歩　着　先\n束",
+          "after": "ー４ＣＧ降歩着先\n束"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 4029,
+          "block_index": 2,
+          "element_index": 12,
+          "before_bytes": 36,
+          "after_bytes": 22,
+          "before": "ー　４　Ｃ　Ｇ　降　歩　着　先\n束",
+          "after": "ー４ＣＧ降歩着先\n束"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 8004,
+          "block_index": 6,
+          "element_index": 4,
+          "before_bytes": 66,
+          "after_bytes": 56,
+          "before": "「물결　유리　찬장에　밥공기와\n국그릇이　가지런히　놓여\n있다」",
+          "after": "「물결유리찬장에밥공기와\n국그릇이가지런히놓여\n있다」"
+        }
+      ]
+    },
+    {
+      "script": "H2a.bin",
+      "pack_member": "M_H06200.bin.gz",
+      "orig_dialog_size": 12928,
+      "final_dialog_size": 12918,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 832,
+          "block_index": 2,
+          "element_index": 14,
+          "before_bytes": 216,
+          "after_bytes": 176,
+          "before": "모에「소리의　물결이　조용히\n숲속으로　빨려　들어가서{PAUSE:007A}이를테면、　나무　우듬지나{PAUSE:0070}꽃들…　잠이　덜　깬　아기\n너구리나　구애　중인　땅벌　군{PAUSE:008A}같은　애들이　모두모두\n행복해져　가는　것　같은\n기분이　들어」",
+          "after": "모에「소리의물결이조용히\n숲속으로빨려들어가서{PAUSE:007A}이를테면、나무우듬지나{PAUSE:0070}꽃들…잠이덜깬아기\n너구리나구애중인땅벌군{PAUSE:008A}같은애들이모두모두\n행복해져가는것같은\n기분이들어」"
+        }
+      ]
+    },
+    {
+      "script": "I43.bin",
+      "pack_member": "M_I43000.bin.gz",
+      "orig_dialog_size": 1920,
+      "final_dialog_size": 1898,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 797,
+          "block_index": 0,
+          "element_index": 4,
+          "before_bytes": 190,
+          "after_bytes": 162,
+          "before": "아저씨「마지막　어려운　연까지\n제대로　높이높이　올렸구나{PAUSE:0090}보쿠、　이제　연　날리기는\n아저씨보다　몇　수　위인　것\n같구나{PAUSE:009C}어쩐지　아저씨는　보쿠가\n든든하게　느껴지기\n시작했단다」",
+          "after": "아저씨「마지막어려운연까지\n제대로높이높이올렸구나{PAUSE:0090}보쿠、이제연날리기는\n아저씨보다몇수위인것\n같구나{PAUSE:009C}어쩐지아저씨는보쿠가\n든든하게느껴지기\n시작했단다」"
+        }
+      ]
+    }
+  ]
+}

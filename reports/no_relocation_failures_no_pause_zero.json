@@ -1,0 +1,122 @@
+[
+  {
+    "script": "A0.bin",
+    "pack_index": 2,
+    "member": "M_A03000.bin.gz",
+    "kind": "preserve_fail",
+    "error": "dialog payload grew beyond its fixed slot. 38912 -> 39424 bytes. This member has no safe gap; shorten another string in the same dialog file or use a relocation strategy.",
+    "orig_dialog_size": 38912,
+    "new_dialog_size": 39424,
+    "rows": 301
+  },
+  {
+    "script": "A0.bin",
+    "pack_index": 22,
+    "member": "M_A15000.bin.gz",
+    "kind": "preserve_fail",
+    "error": "dialog payload grew beyond its fixed slot. 8448 -> 8560 bytes. This member has no safe gap; shorten another string in the same dialog file or use a relocation strategy.",
+    "orig_dialog_size": 8448,
+    "new_dialog_size": 8560,
+    "rows": 66
+  },
+  {
+    "script": "A0.bin",
+    "pack_index": 26,
+    "member": "M_A18000.bin.gz",
+    "kind": "preserve_fail",
+    "error": "dialog payload grew beyond its fixed slot. 1408 -> 1432 bytes. This member has no safe gap; shorten another string in the same dialog file or use a relocation strategy.",
+    "orig_dialog_size": 1408,
+    "new_dialog_size": 1432,
+    "rows": 3
+  },
+  {
+    "script": "A1.bin",
+    "pack_index": 2,
+    "member": "M_A03100.bin.gz",
+    "kind": "preserve_fail",
+    "error": "dialog payload grew beyond its fixed slot. 38912 -> 39424 bytes. This member has no safe gap; shorten another string in the same dialog file or use a relocation strategy.",
+    "orig_dialog_size": 38912,
+    "new_dialog_size": 39424,
+    "rows": 301
+  },
+  {
+    "script": "A1.bin",
+    "pack_index": 22,
+    "member": "M_A15100.bin.gz",
+    "kind": "preserve_fail",
+    "error": "dialog payload grew beyond its fixed slot. 8448 -> 8560 bytes. This member has no safe gap; shorten another string in the same dialog file or use a relocation strategy.",
+    "orig_dialog_size": 8448,
+    "new_dialog_size": 8560,
+    "rows": 66
+  },
+  {
+    "script": "A1.bin",
+    "pack_index": 26,
+    "member": "M_A18100.bin.gz",
+    "kind": "preserve_fail",
+    "error": "dialog payload grew beyond its fixed slot. 1408 -> 1432 bytes. This member has no safe gap; shorten another string in the same dialog file or use a relocation strategy.",
+    "orig_dialog_size": 1408,
+    "new_dialog_size": 1432,
+    "rows": 3
+  },
+  {
+    "script": "C0.bin",
+    "pack_index": 11,
+    "member": "M_C11000.bin.gz",
+    "kind": "preserve_fail",
+    "error": "dialog payload grew beyond its fixed slot. 1536 -> 1538 bytes. This member has no safe gap; shorten another string in the same dialog file or use a relocation strategy.",
+    "orig_dialog_size": 1536,
+    "new_dialog_size": 1538,
+    "rows": 8
+  },
+  {
+    "script": "C1.bin",
+    "pack_index": 11,
+    "member": "M_C11100.bin.gz",
+    "kind": "preserve_fail",
+    "error": "dialog payload grew beyond its fixed slot. 1536 -> 1538 bytes. This member has no safe gap; shorten another string in the same dialog file or use a relocation strategy.",
+    "orig_dialog_size": 1536,
+    "new_dialog_size": 1538,
+    "rows": 8
+  },
+  {
+    "script": "G2a.bin",
+    "pack_index": 6,
+    "member": "M_G03200.bin.gz",
+    "kind": "preserve_fail",
+    "error": "dialog payload grew beyond its fixed slot. 1920 -> 1922 bytes. This member has no safe gap; shorten another string in the same dialog file or use a relocation strategy.",
+    "orig_dialog_size": 1920,
+    "new_dialog_size": 1922,
+    "rows": 10
+  },
+  {
+    "script": "G2a.bin",
+    "pack_index": 7,
+    "member": "M_G03202.bin.gz",
+    "kind": "preserve_fail",
+    "error": "dialog payload grew beyond its fixed slot. 1920 -> 1922 bytes. This member has no safe gap; shorten another string in the same dialog file or use a relocation strategy.",
+    "orig_dialog_size": 1920,
+    "new_dialog_size": 1922,
+    "rows": 10
+  },
+  {
+    "script": "H2a.bin",
+    "pack_index": 8,
+    "member": "M_H06200.bin.gz",
+    "kind": "preserve_fail",
+    "error": "dialog payload grew beyond its fixed slot. 12928 -> 12958 bytes. This member has no safe gap; shorten another string in the same dialog file or use a relocation strategy.",
+    "orig_dialog_size": 12928,
+    "new_dialog_size": 12958,
+    "rows": 70
+  },
+  {
+    "script": "I43.bin",
+    "pack_index": 0,
+    "member": "M_I43000.bin.gz",
+    "kind": "preserve_fail",
+    "error": "dialog payload grew beyond its fixed slot. 1920 -> 1926 bytes. This member has no safe gap; shorten another string in the same dialog file or use a relocation strategy.",
+    "orig_dialog_size": 1920,
+    "new_dialog_size": 1926,
+    "rows": 11
+  }
+]
