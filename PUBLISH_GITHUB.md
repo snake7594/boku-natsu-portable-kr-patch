@@ -1,53 +1,38 @@
-# Publishing To GitHub
+# GitHub 게시 기록
 
-This local repository is already committed and tagged:
+이 저장소는 GitHub에 게시되어 있습니다.
 
-- Branch: `main`
-- Tag: `v0.1.1-fixedpack`
-- Commit: `5ccdbcf`
+- 저장소: `snake7594/boku-natsu-portable-kr-patch`
+- 브랜치: `main`
+- 태그: `v0.1.1-fixedpack`
+- 릴리즈: `v0.1.1-fixedpack`
 
-GitHub upload was not completed because this machine has no active GitHub CLI authentication and no `GH_TOKEN`/`GITHUB_TOKEN` environment variable.
+## 릴리즈 갱신 명령
 
-## Option A: Create A New GitHub Repository
-
-```powershell
-cd "C:\Users\Jae Ho Lee\Documents\Codex\2026-06-30\mcpads-create-retro-game-kr-patch\github_release_repo"
-gh auth login
-gh repo create boku-natsu-portable-kr-patch --public --source . --remote origin --push
-git push origin v0.1.1-fixedpack
-gh release create v0.1.1-fixedpack `
-  release-assets\Boku_no_Natsuyasumi_Portable_KR_fixedpack_v0.1.1.iso.xdelta `
-  release-assets\apply_iso_patch.bat `
-  release-assets\checksums.md `
-  release-assets\README_KO.txt `
-  release-assets\xdelta.exe `
-  --title "Boku no Natsuyasumi Portable KR fixedpack v0.1.1" `
-  --notes-file RELEASE_NOTES_v0.1.1.md
-```
-
-## Option B: Push To An Existing Repository
+릴리즈 노트나 자산을 다시 올릴 때는 다음 명령을 사용합니다.
 
 ```powershell
 cd "C:\Users\Jae Ho Lee\Documents\Codex\2026-06-30\mcpads-create-retro-game-kr-patch\github_release_repo"
-gh auth login
-git remote add origin https://github.com/OWNER/REPO.git
-git push -u origin main
-git push origin v0.1.1-fixedpack
-gh release create v0.1.1-fixedpack `
-  release-assets\Boku_no_Natsuyasumi_Portable_KR_fixedpack_v0.1.1.iso.xdelta `
-  release-assets\apply_iso_patch.bat `
-  release-assets\checksums.md `
-  release-assets\README_KO.txt `
-  release-assets\xdelta.exe `
-  --title "Boku no Natsuyasumi Portable KR fixedpack v0.1.1" `
+
+git add .
+git commit -m "문서와 릴리즈 설명 갱신"
+git push origin main
+
+gh release edit v0.1.1-fixedpack `
+  --repo snake7594/boku-natsu-portable-kr-patch `
+  --title "나의 여름방학 포터블 한글패치 fixedpack v0.1.1" `
   --notes-file RELEASE_NOTES_v0.1.1.md
+
+gh release upload v0.1.1-fixedpack `
+  release-assets\README_KO.txt `
+  release-assets\checksums.md `
+  --repo snake7594/boku-natsu-portable-kr-patch `
+  --clobber
 ```
 
-## Prepared Archives
+## 수동 업로드용 압축 파일
 
-The parent project folder also contains:
+상위 프로젝트 폴더에는 다음 파일도 준비되어 있습니다.
 
 - `github_source_v0.1.1-fixedpack.zip`
 - `github_release_assets_v0.1.1-fixedpack.zip`
-
-These can be uploaded manually through the GitHub web UI if preferred.
