@@ -4,8 +4,8 @@
 
 - 저장소: `snake7594/boku-natsu-portable-kr-patch`
 - 브랜치: `main`
-- 태그: `v0.1.1-fixedpack`
-- 릴리즈: `v0.1.1-fixedpack`
+- 태그: `v0.1.2-pause-guard`
+- 릴리즈: `v0.1.2-pause-guard`
 
 ## 릴리즈 갱신 명령
 
@@ -18,14 +18,17 @@ git add .
 git commit -m "문서와 릴리즈 설명 갱신"
 git push origin main
 
-gh release edit v0.1.1-fixedpack `
+gh release edit v0.1.2-pause-guard `
   --repo snake7594/boku-natsu-portable-kr-patch `
-  --title "나의 여름방학 포터블 한글패치 fixedpack v0.1.1" `
-  --notes-file RELEASE_NOTES_v0.1.1.md
+  --title "나의 여름방학 포터블 한글패치 pause-guard v0.1.2" `
+  --notes-file RELEASE_NOTES_v0.1.2.md
 
-gh release upload v0.1.1-fixedpack `
+gh release upload v0.1.2-pause-guard `
   release-assets\README_KO.txt `
   release-assets\checksums.md `
+  release-assets\Boku_no_Natsuyasumi_Portable_KR_pause_guard_v0.1.2.iso.xdelta `
+  release-assets\apply_iso_patch.bat `
+  release-assets\xdelta.exe `
   --repo snake7594/boku-natsu-portable-kr-patch `
   --clobber
 ```

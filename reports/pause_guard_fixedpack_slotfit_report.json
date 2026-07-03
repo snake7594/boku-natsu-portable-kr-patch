@@ -1,0 +1,57 @@
+{
+  "compressed_slot_fit": [
+    {
+      "script": "A1.bin",
+      "pack_member": "M_A03100.bin.gz",
+      "final": {
+        "dialog_orig": 38912,
+        "dialog_new": 38790,
+        "slot_orig": 80336,
+        "slot_new": 80253
+      },
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact_for_compressed_slot",
+          "dialog_id": 9103,
+          "block_index": 3,
+          "element_index": 64,
+          "before_bytes": 188,
+          "after_bytes": 160,
+          "before": "교감선생「그러고　보니\n고속도로{PAUSE:0051}아래에　아이들이　멋대로\n물건을　가져다　놓고　논다고{PAUSE:0063}학부모한테　항의가　들어온\n적이{PAUSE:005D}있었지　잘　들으렴、　부디\n거기　가면　안　된다」",
+          "after": "교감선생「그러고보니\n고속도로{PAUSE:0051}아래에아이들이멋대로\n물건을가져다놓고논다고{PAUSE:0063}학부모한테항의가들어온\n적이{PAUSE:005D}있었지잘들으렴、부디\n거기가면안된다」"
+        },
+        {
+          "kind": "space_compact_for_compressed_slot",
+          "dialog_id": 9103,
+          "block_index": 4,
+          "element_index": 46,
+          "before_bytes": 166,
+          "after_bytes": 138,
+          "before": "교감선생님「잠자리채는　집\n안에서는　못　쓰지만{PAUSE:005A}그래도　집　밖으로　나가서\n잠자리채를　장비하면　언제든\n쓸　수　있을{PAUSE:008A}거야　한번　시험　삼아　해\n보렴」",
+          "after": "교감선생님「잠자리채는집\n안에서는못쓰지만{PAUSE:005A}그래도집밖으로나가서\n잠자리채를장비하면언제든\n쓸수있을{PAUSE:008A}거야한번시험삼아해\n보렴」"
+        },
+        {
+          "kind": "space_compact_for_compressed_slot",
+          "dialog_id": 9103,
+          "block_index": 4,
+          "element_index": 56,
+          "before_bytes": 200,
+          "after_bytes": 172,
+          "before": "교감선생님「운을　좋게　하는{PAUSE:0045}방법？　그건　지장보살께\n기도하는　거지{PAUSE:005A}그야말로　신에게　빌기！{PAUSE:0045}…이런이런、　선생님이　한\n말이라고　해서{PAUSE:004B}뭐든　그렇게　쉽게　믿으면　안\n된단다」",
+          "after": "교감선생님「운을좋게하는{PAUSE:0045}방법？그건지장보살께\n기도하는거지{PAUSE:005A}그야말로신에게빌기！{PAUSE:0045}…이런이런、선생님이한\n말이라고해서{PAUSE:004B}뭐든그렇게쉽게믿으면안\n된단다」"
+        },
+        {
+          "kind": "space_compact_for_compressed_slot",
+          "dialog_id": 9103,
+          "block_index": 4,
+          "element_index": 64,
+          "before_bytes": 188,
+          "after_bytes": 160,
+          "before": "교감선생「그러고　보니\n고속도로{PAUSE:0051}아래에　아이들이　멋대로\n물건을　가져다　놓고　논다고{PAUSE:0063}학부모한테　항의가　들어온\n적이{PAUSE:005D}있었지　잘　들으렴、　부디\n거기　가면　안　된다」",
+          "after": "교감선생「그러고보니\n고속도로{PAUSE:0051}아래에아이들이멋대로\n물건을가져다놓고논다고{PAUSE:0063}학부모한테항의가들어온\n적이{PAUSE:005D}있었지잘들으렴、부디\n거기가면안된다」"
+        }
+      ]
+    }
+  ]
+}

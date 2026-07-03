@@ -1,0 +1,991 @@
+{
+  "global_pause_space_removals": 0,
+  "global_changes": [],
+  "member_fit": [
+    {
+      "script": "A0.bin",
+      "pack_member": "M_A03000.bin.gz",
+      "orig_dialog_size": 38912,
+      "final_dialog_size": 38902,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 9101,
+          "block_index": 6,
+          "element_index": 52,
+          "before_bytes": 214,
+          "after_bytes": 180,
+          "before": "교감선생「이　근처에서　경치\n좋은　곳이라고{PAUSE:0063}하면　꼭대기산　꼭대기지{PAUSE:0051}하지만　거기　등산로　입구는\n이른　시간에　닫혀　버리니까{PAUSE:0072}그냥　걸어서　시간　맞춰　가는\n건{PAUSE:0054}좀　어려울지도　모르겠구나」",
+          "after": "교감선생「이근처에서경치\n좋은곳이라고{PAUSE:0063}하면꼭대기산꼭대기지{PAUSE:0051}하지만거기등산로입구는\n이른시간에닫혀버리니까{PAUSE:0072}그냥걸어서시간맞춰가는\n건{PAUSE:0054}좀어려울지도모르겠구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9106,
+          "block_index": 0,
+          "element_index": 50,
+          "before_bytes": 178,
+          "after_bytes": 148,
+          "before": "교감선생님「그림　일기에는\n그날　있었던{PAUSE:004E}일　중에서　가장　인상　깊었던\n걸{PAUSE:0057}적는　거란다　하지만　아무런\n큰　사건이　일어나지　않았다고{PAUSE:0078}해서　실망하면　안　돼」",
+          "after": "교감선생님「그림일기에는\n그날있었던{PAUSE:004E}일중에서가장인상깊었던\n걸{PAUSE:0057}적는거란다하지만아무런\n큰사건이일어나지않았다고{PAUSE:0078}해서실망하면안돼」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9106,
+          "block_index": 0,
+          "element_index": 84,
+          "before_bytes": 200,
+          "after_bytes": 170,
+          "before": "교감선생「하지만　지장보살을\n모시고{PAUSE:0051}있으면　정말로　좋은　일이\n있었을　때　지장보살께\n감사하게　되지{PAUSE:0096}나날의　삶　속에서　그런\n마음을　갖는　건{PAUSE:0069}꽤나　좋은　일이지　않을까\n싶구나」",
+          "after": "교감선생「하지만지장보살을\n모시고{PAUSE:0051}있으면정말로좋은일이\n있었을때지장보살께\n감사하게되지{PAUSE:0096}나날의삶속에서그런\n마음을갖는건{PAUSE:0069}꽤나좋은일이지않을까\n싶구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9105,
+          "block_index": 1,
+          "element_index": 50,
+          "before_bytes": 178,
+          "after_bytes": 148,
+          "before": "교감선생님「그림　일기에는\n그날　있었던{PAUSE:004E}일　중에서　가장　인상　깊었던\n걸{PAUSE:0057}적는　거란다　하지만　아무런\n큰　사건이　일어나지　않았다고{PAUSE:0078}해서　실망하면　안　돼」",
+          "after": "교감선생님「그림일기에는\n그날있었던{PAUSE:004E}일중에서가장인상깊었던\n걸{PAUSE:0057}적는거란다하지만아무런\n큰사건이일어나지않았다고{PAUSE:0078}해서실망하면안돼」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9105,
+          "block_index": 1,
+          "element_index": 84,
+          "before_bytes": 200,
+          "after_bytes": 170,
+          "before": "교감선생「하지만　지장보살을\n모시고{PAUSE:0051}있으면　정말로　좋은　일이\n있었을　때　지장보살께\n감사하게　되지{PAUSE:0096}나날의　삶　속에서　그런\n마음을　갖는　건{PAUSE:0069}꽤나　좋은　일이지　않을까\n싶구나」",
+          "after": "교감선생「하지만지장보살을\n모시고{PAUSE:0051}있으면정말로좋은일이\n있었을때지장보살께\n감사하게되지{PAUSE:0096}나날의삶속에서그런\n마음을갖는건{PAUSE:0069}꽤나좋은일이지않을까\n싶구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9103,
+          "block_index": 3,
+          "element_index": 50,
+          "before_bytes": 178,
+          "after_bytes": 148,
+          "before": "교감선생님「그림　일기에는\n그날　있었던{PAUSE:004E}일　중에서　가장　인상　깊었던\n걸{PAUSE:0057}적는　거란다　하지만　아무런\n큰　사건이　일어나지　않았다고{PAUSE:0078}해서　실망하면　안　돼」",
+          "after": "교감선생님「그림일기에는\n그날있었던{PAUSE:004E}일중에서가장인상깊었던\n걸{PAUSE:0057}적는거란다하지만아무런\n큰사건이일어나지않았다고{PAUSE:0078}해서실망하면안돼」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9103,
+          "block_index": 3,
+          "element_index": 84,
+          "before_bytes": 200,
+          "after_bytes": 170,
+          "before": "교감선생「하지만　지장보살을\n모시고{PAUSE:0051}있으면　정말로　좋은　일이\n있었을　때　지장보살께\n감사하게　되지{PAUSE:0096}나날의　삶　속에서　그런\n마음을　갖는　건{PAUSE:0069}꽤나　좋은　일이지　않을까\n싶구나」",
+          "after": "교감선생「하지만지장보살을\n모시고{PAUSE:0051}있으면정말로좋은일이\n있었을때지장보살께\n감사하게되지{PAUSE:0096}나날의삶속에서그런\n마음을갖는건{PAUSE:0069}꽤나좋은일이지않을까\n싶구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9103,
+          "block_index": 4,
+          "element_index": 50,
+          "before_bytes": 178,
+          "after_bytes": 148,
+          "before": "교감선생님「그림　일기에는\n그날　있었던{PAUSE:004E}일　중에서　가장　인상　깊었던\n걸{PAUSE:0057}적는　거란다　하지만　아무런\n큰　사건이　일어나지　않았다고{PAUSE:0078}해서　실망하면　안　돼」",
+          "after": "교감선생님「그림일기에는\n그날있었던{PAUSE:004E}일중에서가장인상깊었던\n걸{PAUSE:0057}적는거란다하지만아무런\n큰사건이일어나지않았다고{PAUSE:0078}해서실망하면안돼」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9103,
+          "block_index": 4,
+          "element_index": 84,
+          "before_bytes": 200,
+          "after_bytes": 170,
+          "before": "교감선생「하지만　지장보살을\n모시고{PAUSE:0051}있으면　정말로　좋은　일이\n있었을　때　지장보살께\n감사하게　되지{PAUSE:0096}나날의　삶　속에서　그런\n마음을　갖는　건{PAUSE:0069}꽤나　좋은　일이지　않을까\n싶구나」",
+          "after": "교감선생「하지만지장보살을\n모시고{PAUSE:0051}있으면정말로좋은일이\n있었을때지장보살께\n감사하게되지{PAUSE:0096}나날의삶속에서그런\n마음을갖는건{PAUSE:0069}꽤나좋은일이지않을까\n싶구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9102,
+          "block_index": 5,
+          "element_index": 50,
+          "before_bytes": 178,
+          "after_bytes": 148,
+          "before": "교감선생님「그림　일기에는\n그날　있었던{PAUSE:004E}일　중에서　가장　인상　깊었던\n걸{PAUSE:0057}적는　거란다　하지만　아무런\n큰　사건이　일어나지　않았다고{PAUSE:0078}해서　실망하면　안　돼」",
+          "after": "교감선생님「그림일기에는\n그날있었던{PAUSE:004E}일중에서가장인상깊었던\n걸{PAUSE:0057}적는거란다하지만아무런\n큰사건이일어나지않았다고{PAUSE:0078}해서실망하면안돼」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9102,
+          "block_index": 5,
+          "element_index": 84,
+          "before_bytes": 200,
+          "after_bytes": 170,
+          "before": "교감선생「하지만　지장보살을\n모시고{PAUSE:0051}있으면　정말로　좋은　일이\n있었을　때　지장보살께\n감사하게　되지{PAUSE:0096}나날의　삶　속에서　그런\n마음을　갖는　건{PAUSE:0069}꽤나　좋은　일이지　않을까\n싶구나」",
+          "after": "교감선생「하지만지장보살을\n모시고{PAUSE:0051}있으면정말로좋은일이\n있었을때지장보살께\n감사하게되지{PAUSE:0096}나날의삶속에서그런\n마음을갖는건{PAUSE:0069}꽤나좋은일이지않을까\n싶구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9101,
+          "block_index": 6,
+          "element_index": 50,
+          "before_bytes": 178,
+          "after_bytes": 148,
+          "before": "교감선생님「그림　일기에는\n그날　있었던{PAUSE:004E}일　중에서　가장　인상　깊었던\n걸{PAUSE:0057}적는　거란다　하지만　아무런\n큰　사건이　일어나지　않았다고{PAUSE:0078}해서　실망하면　안　돼」",
+          "after": "교감선생님「그림일기에는\n그날있었던{PAUSE:004E}일중에서가장인상깊었던\n걸{PAUSE:0057}적는거란다하지만아무런\n큰사건이일어나지않았다고{PAUSE:0078}해서실망하면안돼」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9101,
+          "block_index": 6,
+          "element_index": 84,
+          "before_bytes": 200,
+          "after_bytes": 170,
+          "before": "교감선생「하지만　지장보살을\n모시고{PAUSE:0051}있으면　정말로　좋은　일이\n있었을　때　지장보살께\n감사하게　되지{PAUSE:0096}나날의　삶　속에서　그런\n마음을　갖는　건{PAUSE:0069}꽤나　좋은　일이지　않을까\n싶구나」",
+          "after": "교감선생「하지만지장보살을\n모시고{PAUSE:0051}있으면정말로좋은일이\n있었을때지장보살께\n감사하게되지{PAUSE:0096}나날의삶속에서그런\n마음을갖는건{PAUSE:0069}꽤나좋은일이지않을까\n싶구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9106,
+          "block_index": 0,
+          "element_index": 46,
+          "before_bytes": 166,
+          "after_bytes": 138,
+          "before": "교감선생님「잠자리채는　집\n안에서는　못　쓰지만{PAUSE:005A}그래도　집　밖으로　나가서\n잠자리채를　장비하면　언제든\n쓸　수　있을{PAUSE:008A}거야　한번　시험　삼아　해\n보렴」",
+          "after": "교감선생님「잠자리채는집\n안에서는못쓰지만{PAUSE:005A}그래도집밖으로나가서\n잠자리채를장비하면언제든\n쓸수있을{PAUSE:008A}거야한번시험삼아해\n보렴」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9106,
+          "block_index": 0,
+          "element_index": 56,
+          "before_bytes": 200,
+          "after_bytes": 172,
+          "before": "교감선생님「운을　좋게　하는{PAUSE:0045}방법？　그건　지장보살께\n기도하는　거지{PAUSE:005A}그야말로　신에게　빌기！{PAUSE:0045}…이런이런、　선생님이　한\n말이라고　해서{PAUSE:004B}뭐든　그렇게　쉽게　믿으면　안\n된단다」",
+          "after": "교감선생님「운을좋게하는{PAUSE:0045}방법？그건지장보살께\n기도하는거지{PAUSE:005A}그야말로신에게빌기！{PAUSE:0045}…이런이런、선생님이한\n말이라고해서{PAUSE:004B}뭐든그렇게쉽게믿으면안\n된단다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9106,
+          "block_index": 0,
+          "element_index": 64,
+          "before_bytes": 188,
+          "after_bytes": 160,
+          "before": "교감선생「그러고　보니\n고속도로{PAUSE:0051}아래에　아이들이　멋대로\n물건을　가져다　놓고　논다고{PAUSE:0063}학부모한테　항의가　들어온\n적이{PAUSE:005D}있었지　잘　들으렴、　부디\n거기　가면　안　된다」",
+          "after": "교감선생「그러고보니\n고속도로{PAUSE:0051}아래에아이들이멋대로\n물건을가져다놓고논다고{PAUSE:0063}학부모한테항의가들어온\n적이{PAUSE:005D}있었지잘들으렴、부디\n거기가면안된다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9105,
+          "block_index": 1,
+          "element_index": 46,
+          "before_bytes": 166,
+          "after_bytes": 138,
+          "before": "교감선생님「잠자리채는　집\n안에서는　못　쓰지만{PAUSE:005A}그래도　집　밖으로　나가서\n잠자리채를　장비하면　언제든\n쓸　수　있을{PAUSE:008A}거야　한번　시험　삼아　해\n보렴」",
+          "after": "교감선생님「잠자리채는집\n안에서는못쓰지만{PAUSE:005A}그래도집밖으로나가서\n잠자리채를장비하면언제든\n쓸수있을{PAUSE:008A}거야한번시험삼아해\n보렴」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9105,
+          "block_index": 1,
+          "element_index": 56,
+          "before_bytes": 200,
+          "after_bytes": 172,
+          "before": "교감선생님「운을　좋게　하는{PAUSE:0045}방법？　그건　지장보살께\n기도하는　거지{PAUSE:005A}그야말로　신에게　빌기！{PAUSE:0045}…이런이런、　선생님이　한\n말이라고　해서{PAUSE:004B}뭐든　그렇게　쉽게　믿으면　안\n된단다」",
+          "after": "교감선생님「운을좋게하는{PAUSE:0045}방법？그건지장보살께\n기도하는거지{PAUSE:005A}그야말로신에게빌기！{PAUSE:0045}…이런이런、선생님이한\n말이라고해서{PAUSE:004B}뭐든그렇게쉽게믿으면안\n된단다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9105,
+          "block_index": 1,
+          "element_index": 64,
+          "before_bytes": 188,
+          "after_bytes": 160,
+          "before": "교감선생「그러고　보니\n고속도로{PAUSE:0051}아래에　아이들이　멋대로\n물건을　가져다　놓고　논다고{PAUSE:0063}학부모한테　항의가　들어온\n적이{PAUSE:005D}있었지　잘　들으렴、　부디\n거기　가면　안　된다」",
+          "after": "교감선생「그러고보니\n고속도로{PAUSE:0051}아래에아이들이멋대로\n물건을가져다놓고논다고{PAUSE:0063}학부모한테항의가들어온\n적이{PAUSE:005D}있었지잘들으렴、부디\n거기가면안된다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9103,
+          "block_index": 3,
+          "element_index": 46,
+          "before_bytes": 166,
+          "after_bytes": 138,
+          "before": "교감선생님「잠자리채는　집\n안에서는　못　쓰지만{PAUSE:005A}그래도　집　밖으로　나가서\n잠자리채를　장비하면　언제든\n쓸　수　있을{PAUSE:008A}거야　한번　시험　삼아　해\n보렴」",
+          "after": "교감선생님「잠자리채는집\n안에서는못쓰지만{PAUSE:005A}그래도집밖으로나가서\n잠자리채를장비하면언제든\n쓸수있을{PAUSE:008A}거야한번시험삼아해\n보렴」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9103,
+          "block_index": 3,
+          "element_index": 56,
+          "before_bytes": 200,
+          "after_bytes": 172,
+          "before": "교감선생님「운을　좋게　하는{PAUSE:0045}방법？　그건　지장보살께\n기도하는　거지{PAUSE:005A}그야말로　신에게　빌기！{PAUSE:0045}…이런이런、　선생님이　한\n말이라고　해서{PAUSE:004B}뭐든　그렇게　쉽게　믿으면　안\n된단다」",
+          "after": "교감선생님「운을좋게하는{PAUSE:0045}방법？그건지장보살께\n기도하는거지{PAUSE:005A}그야말로신에게빌기！{PAUSE:0045}…이런이런、선생님이한\n말이라고해서{PAUSE:004B}뭐든그렇게쉽게믿으면안\n된단다」"
+        }
+      ]
+    },
+    {
+      "script": "A0.bin",
+      "pack_member": "M_A15000.bin.gz",
+      "orig_dialog_size": 8448,
+      "final_dialog_size": 8442,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 9104,
+          "block_index": 3,
+          "element_index": 84,
+          "before_bytes": 200,
+          "after_bytes": 170,
+          "before": "교감선생「하지만　지장보살을\n모시고{PAUSE:0051}있으면　정말로　좋은　일이\n있었을　때　지장보살께\n감사하게　되지{PAUSE:0096}나날의　삶　속에서　그런\n마음을　갖는　건{PAUSE:0069}꽤나　좋은　일이지　않을까\n싶구나」",
+          "after": "교감선생「하지만지장보살을\n모시고{PAUSE:0051}있으면정말로좋은일이\n있었을때지장보살께\n감사하게되지{PAUSE:0096}나날의삶속에서그런\n마음을갖는건{PAUSE:0069}꽤나좋은일이지않을까\n싶구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9104,
+          "block_index": 3,
+          "element_index": 46,
+          "before_bytes": 166,
+          "after_bytes": 138,
+          "before": "교감선생님「잠자리채는　집\n안에서는　못　쓰지만{PAUSE:005A}그래도　집　밖으로　나가서\n잠자리채를　장비하면　언제든\n쓸　수　있을{PAUSE:008A}거야　한번　시험　삼아　해\n보렴」",
+          "after": "교감선생님「잠자리채는집\n안에서는못쓰지만{PAUSE:005A}그래도집밖으로나가서\n잠자리채를장비하면언제든\n쓸수있을{PAUSE:008A}거야한번시험삼아해\n보렴」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9104,
+          "block_index": 3,
+          "element_index": 56,
+          "before_bytes": 200,
+          "after_bytes": 172,
+          "before": "교감선생님「운을　좋게　하는{PAUSE:0045}방법？　그건　지장보살께\n기도하는　거지{PAUSE:005A}그야말로　신에게　빌기！{PAUSE:0045}…이런이런、　선생님이　한\n말이라고　해서{PAUSE:004B}뭐든　그렇게　쉽게　믿으면　안\n된단다」",
+          "after": "교감선생님「운을좋게하는{PAUSE:0045}방법？그건지장보살께\n기도하는거지{PAUSE:005A}그야말로신에게빌기！{PAUSE:0045}…이런이런、선생님이한\n말이라고해서{PAUSE:004B}뭐든그렇게쉽게믿으면안\n된단다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9104,
+          "block_index": 3,
+          "element_index": 64,
+          "before_bytes": 188,
+          "after_bytes": 160,
+          "before": "교감선생「그러고　보니\n고속도로{PAUSE:0051}아래에　아이들이　멋대로\n물건을　가져다　놓고　논다고{PAUSE:0063}학부모한테　항의가　들어온\n적이{PAUSE:005D}있었지　잘　들으렴、　부디\n거기　가면　안　된다」",
+          "after": "교감선생「그러고보니\n고속도로{PAUSE:0051}아래에아이들이멋대로\n물건을가져다놓고논다고{PAUSE:0063}학부모한테항의가들어온\n적이{PAUSE:005D}있었지잘들으렴、부디\n거기가면안된다」"
+        }
+      ]
+    },
+    {
+      "script": "A1.bin",
+      "pack_member": "M_A03100.bin.gz",
+      "orig_dialog_size": 38912,
+      "final_dialog_size": 38902,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 9101,
+          "block_index": 6,
+          "element_index": 52,
+          "before_bytes": 214,
+          "after_bytes": 180,
+          "before": "교감선생「이　근처에서　경치\n좋은　곳이라고{PAUSE:0063}하면　꼭대기산　꼭대기지{PAUSE:0051}하지만　거기　등산로　입구는\n이른　시간에　닫혀　버리니까{PAUSE:0072}그냥　걸어서　시간　맞춰　가는\n건{PAUSE:0054}좀　어려울지도　모르겠구나」",
+          "after": "교감선생「이근처에서경치\n좋은곳이라고{PAUSE:0063}하면꼭대기산꼭대기지{PAUSE:0051}하지만거기등산로입구는\n이른시간에닫혀버리니까{PAUSE:0072}그냥걸어서시간맞춰가는\n건{PAUSE:0054}좀어려울지도모르겠구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9106,
+          "block_index": 0,
+          "element_index": 50,
+          "before_bytes": 178,
+          "after_bytes": 148,
+          "before": "교감선생님「그림　일기에는\n그날　있었던{PAUSE:004E}일　중에서　가장　인상　깊었던\n걸{PAUSE:0057}적는　거란다　하지만　아무런\n큰　사건이　일어나지　않았다고{PAUSE:0078}해서　실망하면　안　돼」",
+          "after": "교감선생님「그림일기에는\n그날있었던{PAUSE:004E}일중에서가장인상깊었던\n걸{PAUSE:0057}적는거란다하지만아무런\n큰사건이일어나지않았다고{PAUSE:0078}해서실망하면안돼」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9106,
+          "block_index": 0,
+          "element_index": 84,
+          "before_bytes": 200,
+          "after_bytes": 170,
+          "before": "교감선생「하지만　지장보살을\n모시고{PAUSE:0051}있으면　정말로　좋은　일이\n있었을　때　지장보살께\n감사하게　되지{PAUSE:0096}나날의　삶　속에서　그런\n마음을　갖는　건{PAUSE:0069}꽤나　좋은　일이지　않을까\n싶구나」",
+          "after": "교감선생「하지만지장보살을\n모시고{PAUSE:0051}있으면정말로좋은일이\n있었을때지장보살께\n감사하게되지{PAUSE:0096}나날의삶속에서그런\n마음을갖는건{PAUSE:0069}꽤나좋은일이지않을까\n싶구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9105,
+          "block_index": 1,
+          "element_index": 50,
+          "before_bytes": 178,
+          "after_bytes": 148,
+          "before": "교감선생님「그림　일기에는\n그날　있었던{PAUSE:004E}일　중에서　가장　인상　깊었던\n걸{PAUSE:0057}적는　거란다　하지만　아무런\n큰　사건이　일어나지　않았다고{PAUSE:0078}해서　실망하면　안　돼」",
+          "after": "교감선생님「그림일기에는\n그날있었던{PAUSE:004E}일중에서가장인상깊었던\n걸{PAUSE:0057}적는거란다하지만아무런\n큰사건이일어나지않았다고{PAUSE:0078}해서실망하면안돼」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9105,
+          "block_index": 1,
+          "element_index": 84,
+          "before_bytes": 200,
+          "after_bytes": 170,
+          "before": "교감선생「하지만　지장보살을\n모시고{PAUSE:0051}있으면　정말로　좋은　일이\n있었을　때　지장보살께\n감사하게　되지{PAUSE:0096}나날의　삶　속에서　그런\n마음을　갖는　건{PAUSE:0069}꽤나　좋은　일이지　않을까\n싶구나」",
+          "after": "교감선생「하지만지장보살을\n모시고{PAUSE:0051}있으면정말로좋은일이\n있었을때지장보살께\n감사하게되지{PAUSE:0096}나날의삶속에서그런\n마음을갖는건{PAUSE:0069}꽤나좋은일이지않을까\n싶구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9103,
+          "block_index": 3,
+          "element_index": 50,
+          "before_bytes": 178,
+          "after_bytes": 148,
+          "before": "교감선생님「그림　일기에는\n그날　있었던{PAUSE:004E}일　중에서　가장　인상　깊었던\n걸{PAUSE:0057}적는　거란다　하지만　아무런\n큰　사건이　일어나지　않았다고{PAUSE:0078}해서　실망하면　안　돼」",
+          "after": "교감선생님「그림일기에는\n그날있었던{PAUSE:004E}일중에서가장인상깊었던\n걸{PAUSE:0057}적는거란다하지만아무런\n큰사건이일어나지않았다고{PAUSE:0078}해서실망하면안돼」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9103,
+          "block_index": 3,
+          "element_index": 84,
+          "before_bytes": 200,
+          "after_bytes": 170,
+          "before": "교감선생「하지만　지장보살을\n모시고{PAUSE:0051}있으면　정말로　좋은　일이\n있었을　때　지장보살께\n감사하게　되지{PAUSE:0096}나날의　삶　속에서　그런\n마음을　갖는　건{PAUSE:0069}꽤나　좋은　일이지　않을까\n싶구나」",
+          "after": "교감선생「하지만지장보살을\n모시고{PAUSE:0051}있으면정말로좋은일이\n있었을때지장보살께\n감사하게되지{PAUSE:0096}나날의삶속에서그런\n마음을갖는건{PAUSE:0069}꽤나좋은일이지않을까\n싶구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9103,
+          "block_index": 4,
+          "element_index": 50,
+          "before_bytes": 178,
+          "after_bytes": 148,
+          "before": "교감선생님「그림　일기에는\n그날　있었던{PAUSE:004E}일　중에서　가장　인상　깊었던\n걸{PAUSE:0057}적는　거란다　하지만　아무런\n큰　사건이　일어나지　않았다고{PAUSE:0078}해서　실망하면　안　돼」",
+          "after": "교감선생님「그림일기에는\n그날있었던{PAUSE:004E}일중에서가장인상깊었던\n걸{PAUSE:0057}적는거란다하지만아무런\n큰사건이일어나지않았다고{PAUSE:0078}해서실망하면안돼」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9103,
+          "block_index": 4,
+          "element_index": 84,
+          "before_bytes": 200,
+          "after_bytes": 170,
+          "before": "교감선생「하지만　지장보살을\n모시고{PAUSE:0051}있으면　정말로　좋은　일이\n있었을　때　지장보살께\n감사하게　되지{PAUSE:0096}나날의　삶　속에서　그런\n마음을　갖는　건{PAUSE:0069}꽤나　좋은　일이지　않을까\n싶구나」",
+          "after": "교감선생「하지만지장보살을\n모시고{PAUSE:0051}있으면정말로좋은일이\n있었을때지장보살께\n감사하게되지{PAUSE:0096}나날의삶속에서그런\n마음을갖는건{PAUSE:0069}꽤나좋은일이지않을까\n싶구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9102,
+          "block_index": 5,
+          "element_index": 50,
+          "before_bytes": 178,
+          "after_bytes": 148,
+          "before": "교감선생님「그림　일기에는\n그날　있었던{PAUSE:004E}일　중에서　가장　인상　깊었던\n걸{PAUSE:0057}적는　거란다　하지만　아무런\n큰　사건이　일어나지　않았다고{PAUSE:0078}해서　실망하면　안　돼」",
+          "after": "교감선생님「그림일기에는\n그날있었던{PAUSE:004E}일중에서가장인상깊었던\n걸{PAUSE:0057}적는거란다하지만아무런\n큰사건이일어나지않았다고{PAUSE:0078}해서실망하면안돼」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9102,
+          "block_index": 5,
+          "element_index": 84,
+          "before_bytes": 200,
+          "after_bytes": 170,
+          "before": "교감선생「하지만　지장보살을\n모시고{PAUSE:0051}있으면　정말로　좋은　일이\n있었을　때　지장보살께\n감사하게　되지{PAUSE:0096}나날의　삶　속에서　그런\n마음을　갖는　건{PAUSE:0069}꽤나　좋은　일이지　않을까\n싶구나」",
+          "after": "교감선생「하지만지장보살을\n모시고{PAUSE:0051}있으면정말로좋은일이\n있었을때지장보살께\n감사하게되지{PAUSE:0096}나날의삶속에서그런\n마음을갖는건{PAUSE:0069}꽤나좋은일이지않을까\n싶구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9101,
+          "block_index": 6,
+          "element_index": 50,
+          "before_bytes": 178,
+          "after_bytes": 148,
+          "before": "교감선생님「그림　일기에는\n그날　있었던{PAUSE:004E}일　중에서　가장　인상　깊었던\n걸{PAUSE:0057}적는　거란다　하지만　아무런\n큰　사건이　일어나지　않았다고{PAUSE:0078}해서　실망하면　안　돼」",
+          "after": "교감선생님「그림일기에는\n그날있었던{PAUSE:004E}일중에서가장인상깊었던\n걸{PAUSE:0057}적는거란다하지만아무런\n큰사건이일어나지않았다고{PAUSE:0078}해서실망하면안돼」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9101,
+          "block_index": 6,
+          "element_index": 84,
+          "before_bytes": 200,
+          "after_bytes": 170,
+          "before": "교감선생「하지만　지장보살을\n모시고{PAUSE:0051}있으면　정말로　좋은　일이\n있었을　때　지장보살께\n감사하게　되지{PAUSE:0096}나날의　삶　속에서　그런\n마음을　갖는　건{PAUSE:0069}꽤나　좋은　일이지　않을까\n싶구나」",
+          "after": "교감선생「하지만지장보살을\n모시고{PAUSE:0051}있으면정말로좋은일이\n있었을때지장보살께\n감사하게되지{PAUSE:0096}나날의삶속에서그런\n마음을갖는건{PAUSE:0069}꽤나좋은일이지않을까\n싶구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9106,
+          "block_index": 0,
+          "element_index": 46,
+          "before_bytes": 166,
+          "after_bytes": 138,
+          "before": "교감선생님「잠자리채는　집\n안에서는　못　쓰지만{PAUSE:005A}그래도　집　밖으로　나가서\n잠자리채를　장비하면　언제든\n쓸　수　있을{PAUSE:008A}거야　한번　시험　삼아　해\n보렴」",
+          "after": "교감선생님「잠자리채는집\n안에서는못쓰지만{PAUSE:005A}그래도집밖으로나가서\n잠자리채를장비하면언제든\n쓸수있을{PAUSE:008A}거야한번시험삼아해\n보렴」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9106,
+          "block_index": 0,
+          "element_index": 56,
+          "before_bytes": 200,
+          "after_bytes": 172,
+          "before": "교감선생님「운을　좋게　하는{PAUSE:0045}방법？　그건　지장보살께\n기도하는　거지{PAUSE:005A}그야말로　신에게　빌기！{PAUSE:0045}…이런이런、　선생님이　한\n말이라고　해서{PAUSE:004B}뭐든　그렇게　쉽게　믿으면　안\n된단다」",
+          "after": "교감선생님「운을좋게하는{PAUSE:0045}방법？그건지장보살께\n기도하는거지{PAUSE:005A}그야말로신에게빌기！{PAUSE:0045}…이런이런、선생님이한\n말이라고해서{PAUSE:004B}뭐든그렇게쉽게믿으면안\n된단다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9106,
+          "block_index": 0,
+          "element_index": 64,
+          "before_bytes": 188,
+          "after_bytes": 160,
+          "before": "교감선생「그러고　보니\n고속도로{PAUSE:0051}아래에　아이들이　멋대로\n물건을　가져다　놓고　논다고{PAUSE:0063}학부모한테　항의가　들어온\n적이{PAUSE:005D}있었지　잘　들으렴、　부디\n거기　가면　안　된다」",
+          "after": "교감선생「그러고보니\n고속도로{PAUSE:0051}아래에아이들이멋대로\n물건을가져다놓고논다고{PAUSE:0063}학부모한테항의가들어온\n적이{PAUSE:005D}있었지잘들으렴、부디\n거기가면안된다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9105,
+          "block_index": 1,
+          "element_index": 46,
+          "before_bytes": 166,
+          "after_bytes": 138,
+          "before": "교감선생님「잠자리채는　집\n안에서는　못　쓰지만{PAUSE:005A}그래도　집　밖으로　나가서\n잠자리채를　장비하면　언제든\n쓸　수　있을{PAUSE:008A}거야　한번　시험　삼아　해\n보렴」",
+          "after": "교감선생님「잠자리채는집\n안에서는못쓰지만{PAUSE:005A}그래도집밖으로나가서\n잠자리채를장비하면언제든\n쓸수있을{PAUSE:008A}거야한번시험삼아해\n보렴」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9105,
+          "block_index": 1,
+          "element_index": 56,
+          "before_bytes": 200,
+          "after_bytes": 172,
+          "before": "교감선생님「운을　좋게　하는{PAUSE:0045}방법？　그건　지장보살께\n기도하는　거지{PAUSE:005A}그야말로　신에게　빌기！{PAUSE:0045}…이런이런、　선생님이　한\n말이라고　해서{PAUSE:004B}뭐든　그렇게　쉽게　믿으면　안\n된단다」",
+          "after": "교감선생님「운을좋게하는{PAUSE:0045}방법？그건지장보살께\n기도하는거지{PAUSE:005A}그야말로신에게빌기！{PAUSE:0045}…이런이런、선생님이한\n말이라고해서{PAUSE:004B}뭐든그렇게쉽게믿으면안\n된단다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9105,
+          "block_index": 1,
+          "element_index": 64,
+          "before_bytes": 188,
+          "after_bytes": 160,
+          "before": "교감선생「그러고　보니\n고속도로{PAUSE:0051}아래에　아이들이　멋대로\n물건을　가져다　놓고　논다고{PAUSE:0063}학부모한테　항의가　들어온\n적이{PAUSE:005D}있었지　잘　들으렴、　부디\n거기　가면　안　된다」",
+          "after": "교감선생「그러고보니\n고속도로{PAUSE:0051}아래에아이들이멋대로\n물건을가져다놓고논다고{PAUSE:0063}학부모한테항의가들어온\n적이{PAUSE:005D}있었지잘들으렴、부디\n거기가면안된다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9103,
+          "block_index": 3,
+          "element_index": 46,
+          "before_bytes": 166,
+          "after_bytes": 138,
+          "before": "교감선생님「잠자리채는　집\n안에서는　못　쓰지만{PAUSE:005A}그래도　집　밖으로　나가서\n잠자리채를　장비하면　언제든\n쓸　수　있을{PAUSE:008A}거야　한번　시험　삼아　해\n보렴」",
+          "after": "교감선생님「잠자리채는집\n안에서는못쓰지만{PAUSE:005A}그래도집밖으로나가서\n잠자리채를장비하면언제든\n쓸수있을{PAUSE:008A}거야한번시험삼아해\n보렴」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9103,
+          "block_index": 3,
+          "element_index": 56,
+          "before_bytes": 200,
+          "after_bytes": 172,
+          "before": "교감선생님「운을　좋게　하는{PAUSE:0045}방법？　그건　지장보살께\n기도하는　거지{PAUSE:005A}그야말로　신에게　빌기！{PAUSE:0045}…이런이런、　선생님이　한\n말이라고　해서{PAUSE:004B}뭐든　그렇게　쉽게　믿으면　안\n된단다」",
+          "after": "교감선생님「운을좋게하는{PAUSE:0045}방법？그건지장보살께\n기도하는거지{PAUSE:005A}그야말로신에게빌기！{PAUSE:0045}…이런이런、선생님이한\n말이라고해서{PAUSE:004B}뭐든그렇게쉽게믿으면안\n된단다」"
+        }
+      ]
+    },
+    {
+      "script": "A1.bin",
+      "pack_member": "M_A15100.bin.gz",
+      "orig_dialog_size": 8448,
+      "final_dialog_size": 8442,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 9104,
+          "block_index": 3,
+          "element_index": 84,
+          "before_bytes": 200,
+          "after_bytes": 170,
+          "before": "교감선생「하지만　지장보살을\n모시고{PAUSE:0051}있으면　정말로　좋은　일이\n있었을　때　지장보살께\n감사하게　되지{PAUSE:0096}나날의　삶　속에서　그런\n마음을　갖는　건{PAUSE:0069}꽤나　좋은　일이지　않을까\n싶구나」",
+          "after": "교감선생「하지만지장보살을\n모시고{PAUSE:0051}있으면정말로좋은일이\n있었을때지장보살께\n감사하게되지{PAUSE:0096}나날의삶속에서그런\n마음을갖는건{PAUSE:0069}꽤나좋은일이지않을까\n싶구나」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9104,
+          "block_index": 3,
+          "element_index": 46,
+          "before_bytes": 166,
+          "after_bytes": 138,
+          "before": "교감선생님「잠자리채는　집\n안에서는　못　쓰지만{PAUSE:005A}그래도　집　밖으로　나가서\n잠자리채를　장비하면　언제든\n쓸　수　있을{PAUSE:008A}거야　한번　시험　삼아　해\n보렴」",
+          "after": "교감선생님「잠자리채는집\n안에서는못쓰지만{PAUSE:005A}그래도집밖으로나가서\n잠자리채를장비하면언제든\n쓸수있을{PAUSE:008A}거야한번시험삼아해\n보렴」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9104,
+          "block_index": 3,
+          "element_index": 56,
+          "before_bytes": 200,
+          "after_bytes": 172,
+          "before": "교감선생님「운을　좋게　하는{PAUSE:0045}방법？　그건　지장보살께\n기도하는　거지{PAUSE:005A}그야말로　신에게　빌기！{PAUSE:0045}…이런이런、　선생님이　한\n말이라고　해서{PAUSE:004B}뭐든　그렇게　쉽게　믿으면　안\n된단다」",
+          "after": "교감선생님「운을좋게하는{PAUSE:0045}방법？그건지장보살께\n기도하는거지{PAUSE:005A}그야말로신에게빌기！{PAUSE:0045}…이런이런、선생님이한\n말이라고해서{PAUSE:004B}뭐든그렇게쉽게믿으면안\n된단다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 9104,
+          "block_index": 3,
+          "element_index": 64,
+          "before_bytes": 188,
+          "after_bytes": 160,
+          "before": "교감선생「그러고　보니\n고속도로{PAUSE:0051}아래에　아이들이　멋대로\n물건을　가져다　놓고　논다고{PAUSE:0063}학부모한테　항의가　들어온\n적이{PAUSE:005D}있었지　잘　들으렴、　부디\n거기　가면　안　된다」",
+          "after": "교감선생「그러고보니\n고속도로{PAUSE:0051}아래에아이들이멋대로\n물건을가져다놓고논다고{PAUSE:0063}학부모한테항의가들어온\n적이{PAUSE:005D}있었지잘들으렴、부디\n거기가면안된다」"
+        }
+      ]
+    },
+    {
+      "script": "D0.bin",
+      "pack_member": "M_D16000.bin.gz",
+      "orig_dialog_size": 2496,
+      "final_dialog_size": 2462,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 2505,
+          "block_index": 2,
+          "element_index": 8,
+          "before_bytes": 284,
+          "after_bytes": 244,
+          "before": "『앞쪽　숲의　우듬지를　스친\n저편에…{PAUSE:0063}먼저、　작은아버지의　집과　그\n마당의{PAUSE:0063}감나무가　여름　햇살을　받으며\n어렴풋이　흔들거리는　모습이\n있었고…{PAUSE:0078}다시　그　너머、　산의　능선이\n다소　완만해진　언저리에는\n사기노사토{PAUSE:0096}마을　집들의　붉은　기와지붕이\n보였다…』",
+          "after": "『앞쪽숲의우듬지를스친\n저편에…{PAUSE:0063}먼저、작은아버지의집과그\n마당의{PAUSE:0063}감나무가여름햇살을받으며\n어렴풋이흔들거리는모습이\n있었고…{PAUSE:0078}다시그너머、산의능선이\n다소완만해진언저리에는\n사기노사토{PAUSE:0096}마을집들의붉은기와지붕이\n보였다…』"
+        }
+      ]
+    },
+    {
+      "script": "D1.bin",
+      "pack_member": "M_D16100.bin.gz",
+      "orig_dialog_size": 2496,
+      "final_dialog_size": 2462,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 2505,
+          "block_index": 2,
+          "element_index": 8,
+          "before_bytes": 284,
+          "after_bytes": 244,
+          "before": "『앞쪽　숲의　우듬지를　스친\n저편에…{PAUSE:0063}먼저、　작은아버지의　집과　그\n마당의{PAUSE:0063}감나무가　여름　햇살을　받으며\n어렴풋이　흔들거리는　모습이\n있었고…{PAUSE:0078}다시　그　너머、　산의　능선이\n다소　완만해진　언저리에는\n사기노사토{PAUSE:0096}마을　집들의　붉은　기와지붕이\n보였다…』",
+          "after": "『앞쪽숲의우듬지를스친\n저편에…{PAUSE:0063}먼저、작은아버지의집과그\n마당의{PAUSE:0063}감나무가여름햇살을받으며\n어렴풋이흔들거리는모습이\n있었고…{PAUSE:0078}다시그너머、산의능선이\n다소완만해진언저리에는\n사기노사토{PAUSE:0096}마을집들의붉은기와지붕이\n보였다…』"
+        }
+      ]
+    },
+    {
+      "script": "G1a.bin",
+      "pack_member": "M_G01100.bin.gz",
+      "orig_dialog_size": 1984,
+      "final_dialog_size": 1922,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 412,
+          "block_index": 4,
+          "element_index": 4,
+          "before_bytes": 444,
+          "after_bytes": 366,
+          "before": "아저씨「보쿠야、　이　근처\n못이나　강에서　낚시를　할{PAUSE:0072}때는　물에　빠지지　않도록\n조심해야　한단다{PAUSE:0063}이　근처는　낚시하는　사람이\n거의　들어오지　않아서　엄청난\n수의　물고기가{PAUSE:00B4}있단다　물이　맑아서　물고기가\n잘　보일{PAUSE:0051}때는　물고기의　움직임을　보고\n챔질　타이밍을　잡으면{PAUSE:008D}좋단다　잘　안　보이는\n곳에서는　표시로　가벼운　찌를\n달면　좋을지도　모르겠구나{PAUSE:00BA}하지만　물고기한테　보쿠　네가\n눈에　띄면　안　된단다」",
+          "after": "아저씨「보쿠야、이근처\n못이나강에서낚시를할{PAUSE:0072}때는물에빠지지않도록\n조심해야한단다{PAUSE:0063}이근처는낚시하는사람이\n거의들어오지않아서엄청난\n수의물고기가{PAUSE:00B4}있단다물이맑아서물고기가\n잘보일{PAUSE:0051}때는물고기의움직임을보고\n챔질타이밍을잡으면{PAUSE:008D}좋단다잘안보이는\n곳에서는표시로가벼운찌를\n달면좋을지도모르겠구나{PAUSE:00BA}하지만물고기한테보쿠네가\n눈에띄면안된단다」"
+        }
+      ]
+    },
+    {
+      "script": "G1a.bin",
+      "pack_member": "M_G01103.bin.gz",
+      "orig_dialog_size": 17280,
+      "final_dialog_size": 17246,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 412,
+          "block_index": 7,
+          "element_index": 4,
+          "before_bytes": 444,
+          "after_bytes": 366,
+          "before": "아저씨「보쿠야、　이　근처\n못이나　강에서　낚시를　할{PAUSE:0072}때는　물에　빠지지　않도록\n조심해야　한단다{PAUSE:0063}이　근처는　낚시하는　사람이\n거의　들어오지　않아서　엄청난\n수의　물고기가{PAUSE:00B4}있단다　물이　맑아서　물고기가\n잘　보일{PAUSE:0051}때는　물고기의　움직임을　보고\n챔질　타이밍을　잡으면{PAUSE:008D}좋단다　잘　안　보이는\n곳에서는　표시로　가벼운　찌를\n달면　좋을지도　모르겠구나{PAUSE:00BA}하지만　물고기한테　보쿠　네가\n눈에　띄면　안　된단다」",
+          "after": "아저씨「보쿠야、이근처\n못이나강에서낚시를할{PAUSE:0072}때는물에빠지지않도록\n조심해야한단다{PAUSE:0063}이근처는낚시하는사람이\n거의들어오지않아서엄청난\n수의물고기가{PAUSE:00B4}있단다물이맑아서물고기가\n잘보일{PAUSE:0051}때는물고기의움직임을보고\n챔질타이밍을잡으면{PAUSE:008D}좋단다잘안보이는\n곳에서는표시로가벼운찌를\n달면좋을지도모르겠구나{PAUSE:00BA}하지만물고기한테보쿠네가\n눈에띄면안된단다」"
+        }
+      ]
+    },
+    {
+      "script": "G1a.bin",
+      "pack_member": "M_G02113.bin.gz",
+      "orig_dialog_size": 6144,
+      "final_dialog_size": 6144,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 8001,
+          "block_index": 3,
+          "element_index": 4,
+          "before_bytes": 64,
+          "after_bytes": 50,
+          "before": "「달력이랑　학교　알림장　급식\n식단표　같은　게　붙어　있다」",
+          "after": "「달력이랑학교알림장급식\n식단표같은게붙어있다」"
+        }
+      ]
+    },
+    {
+      "script": "G2a.bin",
+      "pack_member": "M_G01200.bin.gz",
+      "orig_dialog_size": 22784,
+      "final_dialog_size": 22732,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 412,
+          "block_index": 7,
+          "element_index": 4,
+          "before_bytes": 444,
+          "after_bytes": 366,
+          "before": "아저씨「보쿠야、　이　근처\n못이나　강에서　낚시를　할{PAUSE:0072}때는　물에　빠지지　않도록\n조심해야　한단다{PAUSE:0063}이　근처는　낚시하는　사람이\n거의　들어오지　않아서　엄청난\n수의　물고기가{PAUSE:00B4}있단다　물이　맑아서　물고기가\n잘　보일{PAUSE:0051}때는　물고기의　움직임을　보고\n챔질　타이밍을　잡으면{PAUSE:008D}좋단다　잘　안　보이는\n곳에서는　표시로　가벼운　찌를\n달면　좋을지도　모르겠구나{PAUSE:00BA}하지만　물고기한테　보쿠　네가\n눈에　띄면　안　된단다」",
+          "after": "아저씨「보쿠야、이근처\n못이나강에서낚시를할{PAUSE:0072}때는물에빠지지않도록\n조심해야한단다{PAUSE:0063}이근처는낚시하는사람이\n거의들어오지않아서엄청난\n수의물고기가{PAUSE:00B4}있단다물이맑아서물고기가\n잘보일{PAUSE:0051}때는물고기의움직임을보고\n챔질타이밍을잡으면{PAUSE:008D}좋단다잘안보이는\n곳에서는표시로가벼운찌를\n달면좋을지도모르겠구나{PAUSE:00BA}하지만물고기한테보쿠네가\n눈에띄면안된단다」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 3022,
+          "block_index": 34,
+          "element_index": 4,
+          "before_bytes": 406,
+          "after_bytes": 338,
+          "before": "아줌마「아줌마、　사실은\n도쿄에서　제대로　프로　카메라\n맨이　돼서{PAUSE:008D}내가　죽은　뒤에도　작품을\n남길　수　있는　사람이　되고\n싶　었어…{PAUSE:008D}하지만、　저렇게　예쁜　아이를\n둘이나　후세에　남길　수{PAUSE:0090}있으니까　결국、　야망을　이룬\n걸까、　후후…{PAUSE:008A}어라？　그러고　보니　이\n이야기　지금까지　아무한테도\n한　적이{PAUSE:00B7}없었는데　어째서　보쿠한테는\n말해　버린　걸까…　으음{PAUSE:0057}신기하네…」",
+          "after": "아줌마「아줌마、사실은\n도쿄에서제대로프로카메라\n맨이돼서{PAUSE:008D}내가죽은뒤에도작품을\n남길수있는사람이되고\n싶었어…{PAUSE:008D}하지만、저렇게예쁜아이를\n둘이나후세에남길수{PAUSE:0090}있으니까결국、야망을이룬\n걸까、후후…{PAUSE:008A}어라？그러고보니이\n이야기지금까지아무한테도\n한적이{PAUSE:00B7}없었는데어째서보쿠한테는\n말해버린걸까…으음{PAUSE:0057}신기하네…」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 2012,
+          "block_index": 22,
+          "element_index": 12,
+          "before_bytes": 366,
+          "after_bytes": 312,
+          "before": "아저씨「아저씨한테　있어\n부모님이라는　건…　적어도{PAUSE:004B}아저씨가　서른　살을　넘길\n때까지　인간적인{PAUSE:006F}결함이라든가、　큰　속임수\n같은　걸　찾아낼　수가　없었어\n어떤　의미로는、　완벽에{PAUSE:009C}가까운　존재　였단다…\n그런데、　이번엔{PAUSE:0072}아저씨가　부모　노릇을　할\n차례가　되니까　글쎄　열다섯{PAUSE:007B}살짜리　딸한테　정면으로\n돌파당해　버렸다는\n이야기지…」",
+          "after": "아저씨「아저씨한테있어\n부모님이라는건…적어도{PAUSE:004B}아저씨가서른살을넘길\n때까지인간적인{PAUSE:006F}결함이라든가、큰속임수\n같은걸찾아낼수가없었어\n어떤의미로는、완벽에{PAUSE:009C}가까운존재였단다…\n그런데、이번엔{PAUSE:0072}아저씨가부모노릇을할\n차례가되니까글쎄열다섯{PAUSE:007B}살짜리딸한테정면으로\n돌파당해버렸다는\n이야기지…」"
+        }
+      ]
+    },
+    {
+      "script": "G2a.bin",
+      "pack_member": "M_G08200.bin.gz",
+      "orig_dialog_size": 1216,
+      "final_dialog_size": 1210,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 8007,
+          "block_index": 2,
+          "element_index": 4,
+          "before_bytes": 56,
+          "after_bytes": 48,
+          "before": "「커다란　항아리에　마른\n나뭇가지가　장식되어　있다」",
+          "after": "「커다란항아리에마른\n나뭇가지가장식되어있다」"
+        }
+      ]
+    },
+    {
+      "script": "G2a.bin",
+      "pack_member": "M_G17200.bin.gz",
+      "orig_dialog_size": 19520,
+      "final_dialog_size": 19508,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 832,
+          "block_index": 6,
+          "element_index": 14,
+          "before_bytes": 222,
+          "after_bytes": 182,
+          "before": "모에「소리의　물결이　조용히\n숲속으로　빨려　들어가서{PAUSE:007A}이를테면、　나무　우듬지나{PAUSE:0070}꽃들…　잠이　덜　깬　아기\n너구리나　구애　중인　땅벌　군{PAUSE:008A}같은　애들이　모두모두\n행복해져　가는　것　같은\n기분이　들어」",
+          "after": "모에「소리의물결이조용히\n숲속으로빨려들어가서{PAUSE:007A}이를테면、나무우듬지나{PAUSE:0070}꽃들…잠이덜깬아기\n너구리나구애중인땅벌군{PAUSE:008A}같은애들이모두모두\n행복해져가는것같은\n기분이들어」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 2732,
+          "block_index": 12,
+          "element_index": 16,
+          "before_bytes": 220,
+          "after_bytes": 180,
+          "before": "모에「혹시、　도시랑　똑같은\n하늘이나　구름을　똑같은\n시간에　여기서도　볼　수{PAUSE:00D5}있다면　보쿠　군이　돌아간\n뒤에도　전화로　말이야…{PAUSE:0075}같은　하늘을　보며、　같은\n마음으로　같은　이야기를　할\n수　있을　텐데」",
+          "after": "모에「혹시、도시랑똑같은\n하늘이나구름을똑같은\n시간에여기서도볼수{PAUSE:00D5}있다면보쿠군이돌아간\n뒤에도전화로말이야…{PAUSE:0075}같은하늘을보며、같은\n마음으로같은이야기를할\n수있을텐데」"
+        }
+      ]
+    },
+    {
+      "script": "G2b.bin",
+      "pack_member": "M_G14205.bin.gz",
+      "orig_dialog_size": 1792,
+      "final_dialog_size": 1776,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 107,
+          "block_index": 2,
+          "element_index": 6,
+          "before_bytes": 110,
+          "after_bytes": 92,
+          "before": "『그것은、　잔뜩　흐려　슬픈\n저녁노을　하늘을{PAUSE:0075}배경으로　복엽기　두　대가\n그려진　프라모델　상자였다』",
+          "after": "『그것은、잔뜩흐려슬픈\n저녁노을하늘을{PAUSE:0075}배경으로복엽기두대가\n그려진프라모델상자였다』"
+        }
+      ]
+    },
+    {
+      "script": "H0c.bin",
+      "pack_member": "M_H26002.bin.gz",
+      "orig_dialog_size": 30656,
+      "final_dialog_size": 30638,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 210,
+          "block_index": 4,
+          "element_index": 12,
+          "before_bytes": 222,
+          "after_bytes": 182,
+          "before": "아저씨「으음　실은　말이야、\n여름엔　가마에　불을　지피면\n더워서、　사실은　하고　싶지{PAUSE:00E7}않은데　말이지　아마、　팔월\n하순이　되면　구울　것들이\n상당히　쌓일{PAUSE:0093}테니까　그때는　불을　지피지\n않으면　안　되겠지」",
+          "after": "아저씨「으음실은말이야、\n여름엔가마에불을지피면\n더워서、사실은하고싶지{PAUSE:00E7}않은데말이지아마、팔월\n하순이되면구울것들이\n상당히쌓일{PAUSE:0093}테니까그때는불을지피지\n않으면안되겠지」"
+        }
+      ]
+    },
+    {
+      "script": "H0c.bin",
+      "pack_member": "M_H26003.bin.gz",
+      "orig_dialog_size": 30656,
+      "final_dialog_size": 30638,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 210,
+          "block_index": 4,
+          "element_index": 12,
+          "before_bytes": 222,
+          "after_bytes": 182,
+          "before": "아저씨「으음　실은　말이야、\n여름엔　가마에　불을　지피면\n더워서、　사실은　하고　싶지{PAUSE:00E7}않은데　말이지　아마、　팔월\n하순이　되면　구울　것들이\n상당히　쌓일{PAUSE:0093}테니까　그때는　불을　지피지\n않으면　안　되겠지」",
+          "after": "아저씨「으음실은말이야、\n여름엔가마에불을지피면\n더워서、사실은하고싶지{PAUSE:00E7}않은데말이지아마、팔월\n하순이되면구울것들이\n상당히쌓일{PAUSE:0093}테니까그때는불을지피지\n않으면안되겠지」"
+        }
+      ]
+    },
+    {
+      "script": "H0c.bin",
+      "pack_member": "M_H26010.bin.gz",
+      "orig_dialog_size": 30656,
+      "final_dialog_size": 30638,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 210,
+          "block_index": 4,
+          "element_index": 12,
+          "before_bytes": 222,
+          "after_bytes": 182,
+          "before": "아저씨「으음　실은　말이야、\n여름엔　가마에　불을　지피면\n더워서、　사실은　하고　싶지{PAUSE:00E7}않은데　말이지　아마、　팔월\n하순이　되면　구울　것들이\n상당히　쌓일{PAUSE:0093}테니까　그때는　불을　지피지\n않으면　안　되겠지」",
+          "after": "아저씨「으음실은말이야、\n여름엔가마에불을지피면\n더워서、사실은하고싶지{PAUSE:00E7}않은데말이지아마、팔월\n하순이되면구울것들이\n상당히쌓일{PAUSE:0093}테니까그때는불을지피지\n않으면안되겠지」"
+        }
+      ]
+    },
+    {
+      "script": "H0c.bin",
+      "pack_member": "M_H26011.bin.gz",
+      "orig_dialog_size": 30656,
+      "final_dialog_size": 30638,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 210,
+          "block_index": 4,
+          "element_index": 12,
+          "before_bytes": 222,
+          "after_bytes": 182,
+          "before": "아저씨「으음　실은　말이야、\n여름엔　가마에　불을　지피면\n더워서、　사실은　하고　싶지{PAUSE:00E7}않은데　말이지　아마、　팔월\n하순이　되면　구울　것들이\n상당히　쌓일{PAUSE:0093}테니까　그때는　불을　지피지\n않으면　안　되겠지」",
+          "after": "아저씨「으음실은말이야、\n여름엔가마에불을지피면\n더워서、사실은하고싶지{PAUSE:00E7}않은데말이지아마、팔월\n하순이되면구울것들이\n상당히쌓일{PAUSE:0093}테니까그때는불을지피지\n않으면안되겠지」"
+        }
+      ]
+    },
+    {
+      "script": "H1b.bin",
+      "pack_member": "M_H15101.bin.gz",
+      "orig_dialog_size": 2304,
+      "final_dialog_size": 2260,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 2514,
+          "block_index": 0,
+          "element_index": 6,
+          "before_bytes": 326,
+          "after_bytes": 274,
+          "before": "아저씨「이{PAUSE:0027}가마는…　보다시피、　비탈을\n오르듯이　만들어져　있어서\n오름　가마라고　한단다　이{PAUSE:00BD}가마　모양으로　아래에서　불을\n때면　열이　자연스럽게　비탈\n위쪽으로　올라가기{PAUSE:00AE}때문에　안의　온도를、　효율\n좋게　천　도　이상까지　올릴\n수가{PAUSE:0090}있단다　그래서、　한여름엔\n별로　내키지　않는　더운\n일이지」",
+          "after": "아저씨「이{PAUSE:0027}가마는…보다시피、비탈을\n오르듯이만들어져있어서\n오름가마라고한단다이{PAUSE:00BD}가마모양으로아래에서불을\n때면열이자연스럽게비탈\n위쪽으로올라가기{PAUSE:00AE}때문에안의온도를、효율\n좋게천도이상까지올릴\n수가{PAUSE:0090}있단다그래서、한여름엔\n별로내키지않는더운\n일이지」"
+        }
+      ]
+    },
+    {
+      "script": "H2a.bin",
+      "pack_member": "M_H06200.bin.gz",
+      "orig_dialog_size": 12928,
+      "final_dialog_size": 12908,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 2732,
+          "block_index": 6,
+          "element_index": 16,
+          "before_bytes": 220,
+          "after_bytes": 180,
+          "before": "모에「혹시、　도시랑　똑같은\n하늘이나　구름을　똑같은\n시간에　여기서도　볼　수{PAUSE:00D5}있다면　보쿠　군이　돌아간\n뒤에도　전화로　말이야…{PAUSE:0075}같은　하늘을　보며、　같은\n마음으로　같은　이야기를　할\n수　있을　텐데」",
+          "after": "모에「혹시、도시랑똑같은\n하늘이나구름을똑같은\n시간에여기서도볼수{PAUSE:00D5}있다면보쿠군이돌아간\n뒤에도전화로말이야…{PAUSE:0075}같은하늘을보며、같은\n마음으로같은이야기를할\n수있을텐데」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 1632,
+          "block_index": 4,
+          "element_index": 22,
+          "before_bytes": 168,
+          "after_bytes": 138,
+          "before": "모에「눈을　크게　뜨고　보면、\n별과　별　사이의{PAUSE:007A}어둠　속에도　고운　먼지　같은\n빛의{PAUSE:006D}알갱이들…　희미한　별들이、\n빼곡히　들어차　있는　것　같지\n않아？」",
+          "after": "모에「눈을크게뜨고보면、\n별과별사이의{PAUSE:007A}어둠속에도고운먼지같은\n빛의{PAUSE:006D}알갱이들…희미한별들이、\n빼곡히들어차있는것같지\n않아？」"
+        }
+      ]
+    },
+    {
+      "script": "H2a.bin",
+      "pack_member": "M_H06202.bin.gz",
+      "orig_dialog_size": 13568,
+      "final_dialog_size": 13548,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 832,
+          "block_index": 3,
+          "element_index": 14,
+          "before_bytes": 222,
+          "after_bytes": 182,
+          "before": "모에「소리의　물결이　조용히\n숲속으로　빨려　들어가서{PAUSE:007A}이를테면、　나무　우듬지나{PAUSE:0070}꽃들…　잠이　덜　깬　아기\n너구리나　구애　중인　땅벌　군{PAUSE:008A}같은　애들이　모두모두\n행복해져　가는　것　같은\n기분이　들어」",
+          "after": "모에「소리의물결이조용히\n숲속으로빨려들어가서{PAUSE:007A}이를테면、나무우듬지나{PAUSE:0070}꽃들…잠이덜깬아기\n너구리나구애중인땅벌군{PAUSE:008A}같은애들이모두모두\n행복해져가는것같은\n기분이들어」"
+        },
+        {
+          "kind": "space_compact",
+          "dialog_id": 2732,
+          "block_index": 7,
+          "element_index": 16,
+          "before_bytes": 220,
+          "after_bytes": 180,
+          "before": "모에「혹시、　도시랑　똑같은\n하늘이나　구름을　똑같은\n시간에　여기서도　볼　수{PAUSE:00D5}있다면　보쿠　군이　돌아간\n뒤에도　전화로　말이야…{PAUSE:0075}같은　하늘을　보며、　같은\n마음으로　같은　이야기를　할\n수　있을　텐데」",
+          "after": "모에「혹시、도시랑똑같은\n하늘이나구름을똑같은\n시간에여기서도볼수{PAUSE:00D5}있다면보쿠군이돌아간\n뒤에도전화로말이야…{PAUSE:0075}같은하늘을보며、같은\n마음으로같은이야기를할\n수있을텐데」"
+        }
+      ]
+    },
+    {
+      "script": "H2b.bin",
+      "pack_member": "M_H16200.bin.gz",
+      "orig_dialog_size": 640,
+      "final_dialog_size": 620,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 2,
+          "block_index": 0,
+          "element_index": 6,
+          "before_bytes": 178,
+          "after_bytes": 154,
+          "before": "아저씨「이　시간에、\n여기서부터는　출입{PAUSE:006F}금지란다　어두워져서　발밑이\n안　보이면　유키노　강에　풍덩{PAUSE:0093}빠지니까　말이야　이건\n아저씨네　규칙{PAUSE:006C}이니까　…알겠니？」",
+          "after": "아저씨「이시간에、\n여기서부터는출입{PAUSE:006F}금지란다어두워져서발밑이\n안보이면유키노강에풍덩{PAUSE:0093}빠지니까말이야이건\n아저씨네규칙{PAUSE:006C}이니까…알겠니？」"
+        }
+      ]
+    },
+    {
+      "script": "H2b.bin",
+      "pack_member": "M_H16201.bin.gz",
+      "orig_dialog_size": 640,
+      "final_dialog_size": 620,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 2,
+          "block_index": 0,
+          "element_index": 6,
+          "before_bytes": 178,
+          "after_bytes": 154,
+          "before": "아저씨「이　시간에、\n여기서부터는　출입{PAUSE:006F}금지란다　어두워져서　발밑이\n안　보이면　유키노　강에　풍덩{PAUSE:0093}빠지니까　말이야　이건\n아저씨네　규칙{PAUSE:006C}이니까　…알겠니？」",
+          "after": "아저씨「이시간에、\n여기서부터는출입{PAUSE:006F}금지란다어두워져서발밑이\n안보이면유키노강에풍덩{PAUSE:0093}빠지니까말이야이건\n아저씨네규칙{PAUSE:006C}이니까…알겠니？」"
+        }
+      ]
+    },
+    {
+      "script": "I37.bin",
+      "pack_member": "M_I37000.bin.gz",
+      "orig_dialog_size": 2368,
+      "final_dialog_size": 2344,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 791,
+          "block_index": 0,
+          "element_index": 10,
+          "before_bytes": 132,
+          "after_bytes": 106,
+          "before": "아저씨「아저씨　연、　조금　더\n높이　올라갈　텐데{PAUSE:008A}말이야…　여기서　보일　만큼\n높이　띄워　주면、　다음　걸\n만들어　줄게」",
+          "after": "아저씨「아저씨연、조금더\n높이올라갈텐데{PAUSE:008A}말이야…여기서보일만큼\n높이띄워주면、다음걸\n만들어줄게」"
+        }
+      ]
+    },
+    {
+      "script": "I41.bin",
+      "pack_member": "M_I41000.bin.gz",
+      "orig_dialog_size": 2368,
+      "final_dialog_size": 2344,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 795,
+          "block_index": 0,
+          "element_index": 10,
+          "before_bytes": 132,
+          "after_bytes": 106,
+          "before": "아저씨「아저씨　연、　조금　더\n높이　올라갈　텐데{PAUSE:008A}말이야…　여기서　보일　만큼\n높이　띄워　주면、　다음　걸\n만들어　줄게」",
+          "after": "아저씨「아저씨연、조금더\n높이올라갈텐데{PAUSE:008A}말이야…여기서보일만큼\n높이띄워주면、다음걸\n만들어줄게」"
+        }
+      ]
+    },
+    {
+      "script": "I42.bin",
+      "pack_member": "M_I42000.bin.gz",
+      "orig_dialog_size": 2624,
+      "final_dialog_size": 2620,
+      "fit": true,
+      "actions": [
+        {
+          "kind": "space_compact",
+          "dialog_id": 796,
+          "block_index": 0,
+          "element_index": 6,
+          "before_bytes": 194,
+          "after_bytes": 166,
+          "before": "아저씨「마지막　어려운　연까지\n제대로　높이높이　올렸구나{PAUSE:0090}보쿠、　이제　연　날리기는\n아저씨보다　몇　수　위인　것\n같구나{PAUSE:009C}어쩐지　아저씨는　보쿠가\n든든하게　느껴지기\n시작했단다」",
+          "after": "아저씨「마지막어려운연까지\n제대로높이높이올렸구나{PAUSE:0090}보쿠、이제연날리기는\n아저씨보다몇수위인것\n같구나{PAUSE:009C}어쩐지아저씨는보쿠가\n든든하게느껴지기\n시작했단다」"
+        }
+      ]
+    }
+  ]
+}

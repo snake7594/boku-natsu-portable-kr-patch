@@ -6,11 +6,11 @@ PSP 게임 `Boku no Natsuyasumi Portable`의 한글패치 제작 프로젝트입
 
 ## 현재 릴리즈
 
-- 버전: `v0.1.1-fixedpack`
+- 버전: `v0.1.2-pause-guard`
 - 원본 ISO MD5: `B4D363D59CB87E25AB76AFC5384CCA31`
-- xdelta 적용 후 패치 ISO MD5: `CD2596F6BCAC02E1141049B3B4265BF0`
+- xdelta 적용 후 패치 ISO MD5: `D84261DC135C746EA7679FD7FCDFB7F3`
 - 내장 `cdimg.idx` MD5: `A54FBD28004016AE810BCD1213DF5B20`
-- 내장 `cdimg0.img` MD5: `48128F5D2122883912AD910005544795`
+- 내장 `cdimg0.img` MD5: `784B13BBC5A045756A540B21F7C23614`
 
 ## 패치 적용 방법
 
@@ -19,19 +19,23 @@ PSP 게임 `Boku no Natsuyasumi Portable`의 한글패치 제작 프로젝트입
 1. 원본 ISO를 `apply_iso_patch.bat`와 같은 폴더에 둡니다.
 2. 원본 ISO 파일 이름을 `Boku no Natsuyasumi Portable.iso`로 맞춥니다.
 3. `apply_iso_patch.bat`를 실행합니다.
-4. `Boku no Natsuyasumi Portable KR fixedpack v0.1.1.iso`가 생성됩니다.
+4. `Boku no Natsuyasumi Portable KR pause-guard v0.1.2.iso`가 생성됩니다.
 
-## v0.1.1 수정 내용
+## v0.1.2 수정 내용
 
-이전 빌드에서는 한국어 대사가 원본 dialog 고정 영역을 넘는 경우 12개 `map/gz` 멤버가 내부적으로 다시 포장될 수 있었습니다. 그 결과 내부 pack offset/size가 바뀌어 PPSSPP 방치/자동 재생 크래쉬나 배경 깨짐이 발생할 수 있었습니다.
+이전 v0.1.1 빌드는 2페이지/3페이지 대사 첫 칸의 공백을 없애기 위해 `{PAUSE:hhhh}` 뒤의 `0000` 더미 워드를 제거했습니다. 실제 게임 엔진은 이 워드를 페이지 시작 처리용으로 소비하는 것으로 보이며, 더미 워드가 없으면 다음 페이지의 첫 글자가 사라질 수 있었습니다.
 
-이번 릴리즈는 dialog 재배치를 금지한 상태로 다시 빌드했습니다. 최종 검증 결과는 다음과 같습니다.
+이번 릴리즈는 `{PAUSE:hhhh}`를 다시 `8002 hhhh 0000` 형태로 인코딩합니다. 즉 엔진이 소비할 페이지 시작 더미는 보존하고, 한국어 대사의 실제 첫 글자는 보존되도록 수정했습니다.
+
+## 검증
 
 - 변경된 script 파일: 59개
 - 감사한 변경 멤버/상위 항목: 392개
 - 수정 후 내부 pack offset/size 변경: 0개
-- 공간 초과 멤버 중 띄어쓰기 압축만으로 해결한 행: 46개
+- `{PAUSE:hhhh}` 뒤 `0000` 더미 워드 복원 확인
+- 공간 초과는 띄어쓰기 압축만으로 해결
 - 내용 절단이 필요했던 행: 0개
+- xdelta 적용 검증: 통과
 
 ## 알려진 제한
 
