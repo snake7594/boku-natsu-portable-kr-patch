@@ -6,11 +6,11 @@ PSP 게임 `Boku no Natsuyasumi Portable`의 한글패치 제작 프로젝트입
 
 ## 현재 릴리즈
 
-- 버전: `v0.1.2-pause-guard`
+- 버전: `v0.1.3-image-kr`
 - 원본 ISO MD5: `B4D363D59CB87E25AB76AFC5384CCA31`
-- xdelta 적용 후 패치 ISO MD5: `D84261DC135C746EA7679FD7FCDFB7F3`
+- xdelta 적용 후 패치 ISO MD5: `0AF6DEC9F2097369A7ECFC584C0A5985`
 - 내장 `cdimg.idx` MD5: `A54FBD28004016AE810BCD1213DF5B20`
-- 내장 `cdimg0.img` MD5: `784B13BBC5A045756A540B21F7C23614`
+- 내장 `cdimg0.img` MD5: `7D157EF18CCF6A1A503753F0DB9B317A`
 
 ## 패치 적용 방법
 
@@ -19,7 +19,18 @@ PSP 게임 `Boku no Natsuyasumi Portable`의 한글패치 제작 프로젝트입
 1. 원본 ISO를 `apply_iso_patch.bat`와 같은 폴더에 둡니다.
 2. 원본 ISO 파일 이름을 `Boku no Natsuyasumi Portable.iso`로 맞춥니다.
 3. `apply_iso_patch.bat`를 실행합니다.
-4. `Boku no Natsuyasumi Portable KR pause-guard v0.1.2.iso`가 생성됩니다.
+4. `Boku no Natsuyasumi Portable KR image-kr v0.1.3.iso`가 생성됩니다.
+
+## v0.1.3 수정 내용
+
+v0.1.2의 pause-guard 대사 안정화 위에 이미지로 들어 있던 일본어 UI를 한글화했습니다.
+
+- 타이틀 이미지 한글화
+- 시작 메뉴 항목 한글화
+- 저장 데이터 아이콘/배경 이미지 한글화
+- 주요 게임 메뉴 말풍선 이미지 한글화
+- 곤충 채집, 곤충 씨름, 연날리기, 일기/휴식 계열 메뉴 이미지 한글화
+- 기존 대사 pack offset/size 안정화 유지
 
 ## v0.1.2 수정 내용
 
@@ -29,13 +40,16 @@ PSP 게임 `Boku no Natsuyasumi Portable`의 한글패치 제작 프로젝트입
 
 ## 검증
 
+- 이미지 패치 대상 파일: 10개
+- 수정 후 `cdimg.idx` 변경 없음
+- xdelta 적용 검증: 통과
+- v0.1.2 pause-guard 검증 결과 유지
 - 변경된 script 파일: 59개
 - 감사한 변경 멤버/상위 항목: 392개
 - 수정 후 내부 pack offset/size 변경: 0개
 - `{PAUSE:hhhh}` 뒤 `0000` 더미 워드 복원 확인
 - 공간 초과는 띄어쓰기 압축만으로 해결
 - 내용 절단이 필요했던 행: 0개
-- xdelta 적용 검증: 통과
 
 ## 알려진 제한
 

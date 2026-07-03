@@ -1,0 +1,33 @@
+{
+  "patched_files": [
+    "map/models/title/title.bin",
+    "map/models/system/saveload_normal.bin.gzx",
+    "map/models/system/saveload_favorite.bin.gzx",
+    "map/models/sub/0sub.bin.gzx",
+    "map/models/sub/item.bin.gzx",
+    "map/models/sub/specimen2.bin",
+    "map/models/sub/sumo.dat",
+    "map/models/sub/kite_book.bin",
+    "map/models/sub/kite_select.bin.gzx",
+    "diary/icon.bin"
+  ],
+  "previews": [
+    "C:\\Users\\Jae Ho Lee\\Documents\\Codex\\2026-06-30\\mcpads-create-retro-game-kr-patch\\work\\image_patch_title_system\\title_pim2_01_patched_preview.png",
+    "C:\\Users\\Jae Ho Lee\\Documents\\Codex\\2026-06-30\\mcpads-create-retro-game-kr-patch\\work\\image_patch_title_system\\normal_icon_patched.png",
+    "C:\\Users\\Jae Ho Lee\\Documents\\Codex\\2026-06-30\\mcpads-create-retro-game-kr-patch\\work\\image_patch_title_system\\normal_pic_patched.png",
+    "C:\\Users\\Jae Ho Lee\\Documents\\Codex\\2026-06-30\\mcpads-create-retro-game-kr-patch\\work\\image_patch_title_system\\fav_icon_patched.png",
+    "C:\\Users\\Jae Ho Lee\\Documents\\Codex\\2026-06-30\\mcpads-create-retro-game-kr-patch\\work\\image_patch_title_system\\fav_pic_patched.png",
+    "C:\\Users\\Jae Ho Lee\\Documents\\Codex\\2026-06-30\\mcpads-create-retro-game-kr-patch\\work\\image_patch_title_system\\sub_0sub_patched.png",
+    "C:\\Users\\Jae Ho Lee\\Documents\\Codex\\2026-06-30\\mcpads-create-retro-game-kr-patch\\work\\image_patch_title_system\\sub_item_patched.png",
+    "C:\\Users\\Jae Ho Lee\\Documents\\Codex\\2026-06-30\\mcpads-create-retro-game-kr-patch\\work\\image_patch_title_system\\sub_specimen2_patched.png",
+    "C:\\Users\\Jae Ho Lee\\Documents\\Codex\\2026-06-30\\mcpads-create-retro-game-kr-patch\\work\\image_patch_title_system\\sub_sumo_menu_patched.png",
+    "C:\\Users\\Jae Ho Lee\\Documents\\Codex\\2026-06-30\\mcpads-create-retro-game-kr-patch\\work\\image_patch_title_system\\sub_sumo_moves_patched.png",
+    "C:\\Users\\Jae Ho Lee\\Documents\\Codex\\2026-06-30\\mcpads-create-retro-game-kr-patch\\work\\image_patch_title_system\\sub_kite_book_patched.png",
+    "C:\\Users\\Jae Ho Lee\\Documents\\Codex\\2026-06-30\\mcpads-create-retro-game-kr-patch\\work\\image_patch_title_system\\sub_kite_select_patched.png",
+    "C:\\Users\\Jae Ho Lee\\Documents\\Codex\\2026-06-30\\mcpads-create-retro-game-kr-patch\\work\\image_patch_title_system\\diary_icon_patched.png"
+  ],
+  "build": {
+    "cdimg.idx": "A54FBD28004016AE810BCD1213DF5B20",
+    "cdimg0.img": "7D157EF18CCF6A1A503753F0DB9B317A"
+  }
+}
